@@ -1,0 +1,11 @@
+#labels 免费DNS服务器
+*免费DNS服务器*
+ * 大陆用户：
+   * 114.114.114.114 备用114.114.115.115  
+[http://safe.114dns.com/ 114DNS提供]
+
+ * 国外及港澳台用户：
+   * IPV4:8.8.8.8 备用8.8.4.4 
+   * IPV6:2001:4860:4860::8888 备用2001:4860:4860::8844
+      
+[https://developers.google.com/speed/public-dns/ GooglePubilcDNS]
