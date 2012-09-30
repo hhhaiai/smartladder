@@ -1,22 +1,30 @@
-# copyright (c) 1993-1999 microsoft corp.
+# Copyright (c) 1993-2009 Microsoft Corp.
 #
-# this is a sample hosts file used by microsoft tcp/ip for windows.
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
-# this file contains the mappings of ip addresses to host names. each
-# entry should be kept on an individual line. the ip address should
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
 # be placed in the first column followed by the corresponding host name.
-# the ip address and the host name should be separated by at least one
+# The IP address and the host name should be separated by at least one
 # space.
 #
-# additionally, comments (such as these) may be inserted on individual
+# Additionally, comments (such as these) may be inserted on individual
 # lines or following the machine name denoted by a '#' symbol.
 #
-# for example:
+# For example:
 #
 #      102.54.94.97     rhino.acme.com          # source server
 #       38.25.63.10     x.acme.com              # x client host
-# 以下都是在2006-2007年恶意修改IE属性，或者传播病毒或者木马的网站
-127.0.0.1       localhost
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+58.61.39.209   hub5idx.shub.sandai.net
+121.9.209.135   hub5pr.sandai.net
+
+#UPDATE:12-08-28 15:14
+
+127.0.0.1	localhost
 
 #UPDATE:12-09-09 09:09
 
@@ -406,7 +414,7 @@
 203.208.46.175	t1.gstatic.com
 203.208.46.175	t2.gstatic.com
 203.208.46.175	t3.gstatic.com
-203.208.46.175	www.gstatic.com
+
 
 203.208.46.170	lh1.ggpht.com
 203.208.46.170	lh2.ggpht.com
@@ -639,7 +647,7 @@
 98.139.197.254	farm6.static.flickr.com
 98.139.102.46	farm7.static.flickr.com
 98.136.43.76	geo.yahoo.com
-68.142.250.161	l.yimg.com
+
 96.6.93.227	s.yimg.com
 98.137.88.88	d.yimg.com
 68.142.196.57	c5.ah.yahoo.com
@@ -755,4 +763,4 @@
 #YouTube END
 
 #SmartHosts END
-
+204.154.94.81	www.evernote.com
