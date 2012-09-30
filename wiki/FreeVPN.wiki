@@ -1,0 +1,5 @@
+#labels 免费的VPN
+=FreeVPN=
+ * [http://tenacy.shop.tm/ Tenacy]
+ * [https://www.grjsq.biz/index.php Green VPN]
+ * [http://www.dearjsq.com/index.html Dear VPN]
