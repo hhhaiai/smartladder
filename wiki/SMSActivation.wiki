@@ -15,11 +15,11 @@ GAE的好处我就不多说了，不仅是一个很好的免费空间，可以�
 
 步骤如下：
 
-1、打开填写表单地址：https://appengine.google.com/waitlist/sms_issues，如下图：
+1、打开填写表单地址：https://appengine.google.com/waitlist/sms_issues，
 
 
 
-2、按照意思准确填写，注意只能用英文填写，也可以安装如下范文填写，填好后如下图：
+2、按照意思准确填写，注意只能用英文填写，也可以安装如下范文填写，填好
 
 填写范文：（直接用中文谷歌翻译一下就可以了）
 
