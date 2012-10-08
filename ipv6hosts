@@ -1,5 +1,7 @@
-ï»¿#  SmartLadder IPV6 Hosts
-#  Update 20121001
+# SmartLadder IPV6 Hosts
+
+# Êı¾İÀ´×Ôhttp://code.google.com/p/ipv6-hosts ·Ç³£¸ĞĞ»
+# ¸üĞÂÊ±¼ä 2012Äê10ÔÂ8ÈÕ
 
 ##Google.com Google.com
 2404:6800:8005::64 google.com
@@ -23,7 +25,7 @@
 #2404:6800:8005::69 ipv6.google.co.jp #ipv6.google.com
 #2404:6800:8005::63 ipv6.l.google.com
 
-##Google.com.hk ç’‹é”‹ç“•æ££æ¬è…
+##Google.com.hk ¹È¸èÏã¸Û
 2404:6800:8005::6a www.google.com.hk #www.l.google.com
 2404:6800:8005::5b picasaweb.google.com.hk #picasaweb.l.google.com
 2404:6800:8005::63 desktop.google.com.hk #desktop.l.google.com
@@ -31,7 +33,7 @@
 2404:6800:8005::69 google.com.hk
 2404:6800:8005::67 www.googlechinawebmaster.com
 
-##Google.cn ç’‹é”‹ç“•æ¶“î…æµ—é”›å æƒé¢ã„¦î„é¦æ¿æ½ƒéƒçŠ³ç¡¶å§ï½…çˆ¶æµ£è·¨æ•¤ç’‹é”‹ç“•é—Šå……ç®°é”›ï¿½
+##Google.cn ¹È¸èÖĞ¹ú£¨ÆôÓÃ´ËµØÖ·ÎŞ·¨Õı³£Ê¹ÓÃ¹È¸èÒôÀÖ£©
 #2404:6800:8005::a0 www.google.cn
 2404:6800:8005::a0 g.cn
 2404:6800:8005::a0 google.cn
@@ -45,14 +47,14 @@
 2404:6800:8005::a0 www.265.com #265.com
 2404:6800:8005::a0 265.com
 
-##Google.com.tw Google é™ç‰ˆå’•
+##Google.com.tw Google Ì¨Íå
 2404:6800:8005::5e www.google.com.tw #www-cctld.l.google.com
 2404:6800:8005::88 picasaweb.google.com.tw #picasaweb.l.google.com
 
-##Google.co.jp Google éƒãƒ¦æ¹°
+##Google.co.jp Google ÈÕ±¾
 2404:6800:8005::5e www.google.co.jp #www-cctld.l.google.com
 
-##éæœµç²¬
+##ÆäËû
 2404:6800:8005::5e www.google.ae #www-cctld.l.google.com
 2404:6800:8005::5e www.google.com.ar #www-cctld.l.google.com
 2404:6800:8005::5e www.google.at #www-cctld.l.google.com
@@ -61,7 +63,7 @@
 2404:6800:8005::5e www.google.com.br #www-cctld.l.google.com
 2404:6800:8005::5e www.google.ca #www-cctld.l.google.com
 2404:6800:8005::5e www.google.ch #www-cctld.l.google.com
-###2404:6800:8005::a0 www.google.cn #æ¶“î…æµ—é”›å å‡¡å§ä¼™ç´š
+###2404:6800:8005::a0 www.google.cn #ÖĞ¹ú£¨ÒÑËÀ£©
 2404:6800:8005::5e www.google.fi #www-cctld.l.google.com
 2404:6800:8005::5e www.google.fr #www-cctld.l.google.com
 2404:6800:8005::5e www.google.de #www-cctld.l.google.com
@@ -92,8 +94,8 @@
 2404:6800:8005::5e www.google.com.vn #www-cctld.l.google.com
 2404:6800:8005::5e www.google.co.za #www-cctld.l.google.com
 
-#Web ç¼ƒæˆ¦ã€‰
-2404:6800:8005::67 www.google.com #www.l.google.com #æ¶“ï¿½/é§è¯²ç¶é©ç†·æ‚•é”›å­Talk ç€¹ãˆ¡åŸ›ç»”îˆœæ•¤é´çƒ½æ¸¶å¨‰ã„©å™´å§ã‚†æ½¯é”›å±½å¼¬ç‘™ï¿½ Issue 11
+#Web ÍøÒ³
+2404:6800:8005::67 www.google.com #www.l.google.com #Ö÷/µÇÂ¼ÓòÃû£¬GTalk ¿Í»§¶ËÓÃ»§Ğè×¢ÊÍ´ËÌõ£¬²Î¼û Issue 11
 2404:6800:8005::66 encrypted.google.com #www3.l.google.com
 2404:6800:8005::93 www.l.google.com
 ###2404:6800:8005::62 www0.l.google.com
@@ -125,13 +127,13 @@
 2404:6800:8005::c1 mobile.google.com #mobile.l.google.com
 2404:6800:8005::63 mobile.google.com.hk #www.google.com
 
-#Google Apps æµ¼ä½·ç¬Ÿæ´æ—‚æ•¤æ¿‚æ¤¾æ¬¢
+#Google Apps ÆóÒµÓ¦ÓÃÌ×¼ş
 2404:6800:8005::71 apps.google.com #www3.l.google.com
 2404:6800:8005::79 ghs.google.com #ghs.l.google.com
-2404:6800:8005::79 ghs46.google.com #ghs46.l.google.com #GHS é™å±¾çˆ¤éãƒ¥å½›é”›ï¿½
+2404:6800:8005::79 ghs46.google.com #ghs46.l.google.com #GHS Ë«Õ»Èë¿Ú£¡
 2404:6800:8005::79 ghs.l.google.com
 2404:6800:8005::79 ghs46.l.google.com
-#2404:6800:8005::79 ghs.l.google.com #é™îˆ™äº’å¨£è¯²å§æµ£ï¿½ GApps é©ç†·æ‚•é¨å‹«å´¥ç€¹ãˆ æ¹´é§â‚¬ / GSites é¦æ¿æ½ƒé’æ‹Œç¹–é–²ï¿½
+#2404:6800:8005::79 ghs.l.google.com #¿ÉÒÔÌí¼ÓÄã GApps ÓòÃûµÄ²©¿ÍµØÖ· / GSites µØÖ·µ½ÕâÀï
 
 #Mashups/App Engine GAE
 2404:6800:8005::68 googlemashups.com
@@ -154,21 +156,21 @@
 2404:6800:8005::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com #appspot.l.google.com
 2404:6800:8005::8d evolutionofweb.appspot.com #appspot.l.google.com
 2404:6800:8005::8d yt-debates.appspot.com #appspot.l.google.com
-2404:6800:8005::8d *.appspot.com #appspot.l.google.com #é™îˆ™äº’å¨£è¯²å§é‘·î„ç¹é¨ï¿½ gae æ´æ—‚æ•¤
+2404:6800:8005::8d *.appspot.com #appspot.l.google.com #¿ÉÒÔÌí¼Ó×Ô¼ºµÄ gae Ó¦ÓÃ
 
-#Answers/Guru/WenDa é—‚î†¾ç“Ÿç»€æƒ§å°¯é”›å æµ—é—„å‘¯å¢—å®¸æ’ä» å§ãˆ£ç¹é’€ãƒ¯ç´š
+#Answers/Guru/WenDa ÎÊ´ğÉçÇø£¨¹ú¼Ê°æÒÑÍ£Ö¹ÔËÓª£©
 2404:6800:8005::71 answers.google.com #www3.l.google.com
 ###2404:6800:8005::62 guru.google.com
 2404:6800:8005::69 guru.google.co.th #www2.l.google.com
 2404:6800:8005::66 wenda.google.com.hk #www3.l.google.com
 
-#Blog é—æ°¬î…¹é¼æ»…å‚¨
+#Blog ²©¿ÍËÑË÷
 2404:6800:8005::93 blogsearch.google.com #www2.l.google.com
 2404:6800:8005::93 blogsearch.google.com.hk #www2.l.google.com
 2404:6800:8005::6a blogsearch.google.com.tw #www2.l.google.com
 2404:6800:8005::a0 blogsearch.google.cn #www.google.cn
 
-#Blogger é—æ°¬î…¹éˆå¶…å§Ÿ
+#Blogger ²©¿Í·şÎñ
 2404:6800:8005::bf www.blogger.com #blogger.l.google.com
 2404:6800:8005::bf blogger.com
 2404:6800:8005::bf buttons.blogger.com #blogger.l.google.com
@@ -194,7 +196,7 @@
 2404:6800:8005::bf img2.blogblog.com #blogger.l.google.com
 2404:6800:8005::79 www.textcube.com #ghs.l.google.com
 
-#Blogspot é—æ°¬î…¹éˆå¶…å§Ÿ
+#Blogspot ²©¿Í·şÎñ
 2404:6800:8005::bf www.blogspot.com #blogger.l.google.com
 2404:6800:8005::bf blogger.l.google.com
 2404:6800:8005::bf blogspot.com
@@ -205,7 +207,7 @@
 2404:6800:8005::64 3.bp.blogspot.com #bloggerphotos.l.google.com
 2404:6800:8005::8a 4.bp.blogspot.com #bloggerphotos.l.google.com
 2404:6800:8005::84 bloggertemplatespreview.blogspot.com #blogspot.l.google.com
-#Google ç€¹æ¨»æŸŸé—æ°¬î…¹ç¼‡ï¿½
+#Google ¹Ù·½²©¿ÍÈº
 2404:6800:8005::84 adwordsapi.blogspot.com #blogspot.l.google.com
 2404:6800:8005::84 adsense-zhs.blogspot.com #blogspot.l.google.com
 2404:6800:8005::84 android-developers.blogspot.com #blogspot.l.google.com
@@ -243,10 +245,10 @@
 2404:6800:8005::84 igoogledeveloper.blogspot.com #blogspot.l.google.com
 2404:6800:8005::84 webmproject.blogspot.com #blogspot.l.google.com
 2404:6800:8005::84 youtube-global.blogspot.com #blogspot.l.google.com
-2404:6800:8005::84 *.blogspot.com #blogspot.l.google.com #é™îˆ™äº’å¨£è¯²å§æµ£çŠºåšœå®¸è¾©æ®‘é—æ°¬î…¹é¦æ¿æ½ƒé’æ‹Œç¹–é–²ï¿½
+2404:6800:8005::84 *.blogspot.com #blogspot.l.google.com #¿ÉÒÔÌí¼ÓÄã×Ô¼ºµÄ²©¿ÍµØÖ·µ½ÕâÀï
 2404:6800:8005::84 blogspot.l.google.com
 
-#Books é¥å¥åŠŸ
+#Books Í¼Êé
 2404:6800:8005::64 books.google.com #www3.l.google.com
 2404:6800:8005::8b books.google.com.hk #www3.l.google.com
 2404:6800:8005::a0 books.google.cn #www.google.cn
@@ -274,15 +276,15 @@
 2404:6800:8005::64 bks10.books.google.com.hk #books.google.com
 2404:6800:8005::8b buzz.google.com #www3.l.google.com
 
-#Calendar éƒãƒ¥å·»
+#Calendar ÈÕÀú
 2404:6800:8005::66 calendar.google.com #www3.l.google.com
 
-#Checkout æ¶”æ¿î†
+#Checkout Âò¼Ò
 2404:6800:8005::73 checkout.google.com #checkout.l.google.com
 2404:6800:8005::73 checkout.l.google.com
 2404:6800:8005::64 wallet.google.com #www3.l.google.com
 
-#Chrome ç’‹é”‹ç“•å¨´å¿šîé£ï¿½
+#Chrome ¹È¸èä¯ÀÀÆ÷
 2404:6800:8005::8a chrome.google.com #www3.l.google.com
 2404:6800:8005::66 browsersync.google.com #browsersync.l.google.com
 2404:6800:8005::66 browsersync.l.google.com
@@ -292,7 +294,7 @@
 2404:6800:8005::68 toolbarqueries.l.google.com
 2404:6800:8005::79 chrome.angrybirds.com #ghs.l.google.com
 
-#Chromium Chromium æ¤¤åœ­æ´°
+#Chromium Chromium ÏîÄ¿
 2404:6800:8005::8b chromium.org
 2404:6800:8005::79 www.chromium.org #ghs.l.google.com
 2404:6800:8005::79 dev.chromium.org #ghs.l.google.com
@@ -300,11 +302,11 @@
 #2404:6800:8005::62 build.chromium.org #planet.chromium.org
 2404:6800:8005::79 codereview.chromium.org #ghs.l.google.com
 
-#Chromium OS Chromium é¿å¶„ç¶”ç»¯è¤ç²º
+#Chromium OS Chromium ²Ù×÷ÏµÍ³
 2404:6800:8005::79 goto.ext.google.com #ghs.l.google.com
 2404:6800:8005::8d welcome-cros.appspot.com #appspot.l.google.com
 
-#Code æµ ï½‡çˆœ
+#Code ´úÂë
 2404:6800:8005::66 code.google.com #code.l.google.com
 2404:6800:8005::8a code.l.google.com
 2404:6800:8005::52 *.googlecode.com #googlecode.l.google.com
@@ -318,15 +320,15 @@
 2404:6800:8005::52 www.googlesource.com #googlecode.l.google.com
 2404:6800:8005::52 android.googlesource.com #googlecode.l.google.com
 
-#Desktop å¦—å²„æ½°
+#Desktop ×ÀÃæ
 2404:6800:8005::68 desktop.google.com #desktop.l.google.com
 2404:6800:8005::68 desktop.l.google.com
 
-#Directory ç¼ƒæˆ¦ã€‰é©î†¼ç¶
+#Directory ÍøÒ³Ä¿Â¼
 2404:6800:8005::8a directory.google.com #www3.l.google.com
 2404:6800:8005::64 dir.google.com #www3.l.google.com
 
-#Docs é‚å›¨ã€‚
+#Docs ÎÄµµ
 2404:6800:8005::8b docs.google.com
 2404:6800:8005::66 drive.google.com
 2404:6800:8005::64 docs0.google.com
@@ -373,7 +375,7 @@
 2404:6800:8005::bd 14.drive.google.com
 2404:6800:8005::bd 15.drive.google.com
 2404:6800:8005::bd 16.drive.google.com
-2404:6800:8005::bd *.docs.google.com #browserchannel-docs.l.google.com #é¸å¤æ¸¶ç‘•ä½¸æ‚“éƒèˆµå¢¦å¯®â‚¬é¨å‹¬æƒå¦—ï½„é‡œéæ‹Œåšœç›å±¾åŠé”ï¿½
+2404:6800:8005::bd *.docs.google.com #browserchannel-docs.l.google.com #°´ĞèÒªÍ¬Ê±´ò¿ªµÄÎÄµµ¸öÊı×ÔĞĞÌí¼Ó
 2404:6800:8005::bd *.drive.google.com #browserchannel-docs.l.google.com
 2404:6800:8005::bd browserchannel-docs.l.google.com
 2404:6800:8005::8b spreadsheet.google.com #spreadsheets.l.google.com
@@ -396,39 +398,39 @@
 2404:6800:8005::8b writely-china.l.google.com
 2404:6800:8005::74 upload.docs.google.com #large-uploads.l.google.com
 
-#Download æ¶“å¬­æµ‡
+#Download ÏÂÔØ
 2404:6800:8005::5d dl.google.com #dl.l.google.com
 2404:6800:8005::be dl.l.google.com
 2404:6800:8005::5d dl-ssl.google.com #dl-ssl.l.google.com
 
-#Google Earth é¦æ‰®æ‚†
+#Google Earth µØÇò
 2404:6800:8005::71 earth.google.com #www3.l.google.com
 2404:6800:8005::8b auth.keyhole.com #www3.l.google.com
 2404:6800:8005::66 geoauth.google.com #www3.l.google.com
 
-#Finance ç’ãˆ¢ç²¡
+#Finance ²Æ¾­
 2404:6800:8005::64 finance.google.com #www3.l.google.com
 
-#Fusion RSS é‘±æ°¬æ‚é¸å›§å´¡
+#Fusion RSS ¾ÛºÏÖ¸ÄÏ
 2404:6800:8005::6a fusion.google.com #www2.l.google.com
 
-#Gmail é–­î†¾î†ˆ
+#Gmail ÓÊÏä
 2404:6800:8005::12 mail.google.com #googlemail.l.google.com
 2404:6800:8005::11 googlemail.l.google.com
-2404:6800:8005::bd chatenabled.mail.google.com #b.googlemail.l.google.com #Gmail æ¶“ï¿½ Gtalk é‘±å©‚ã‰éˆå¶…å§Ÿ
-2404:6800:8005::bd filetransferenabled.mail.google.com #b.googlemail.l.google.com #é™îˆå…˜æµ¼æ°¶â‚¬çŠ³åš GTalk ç€¹ãˆ¡åŸ›ç»”îˆšç´“ç”¯ï¿½
+2404:6800:8005::bd chatenabled.mail.google.com #b.googlemail.l.google.com #Gmail ÖĞ Gtalk ÁÄÌì·şÎñ
+2404:6800:8005::bd filetransferenabled.mail.google.com #b.googlemail.l.google.com #¿ÉÄÜ»áÔì³É GTalk ¿Í»§¶ËÒì³£
 2404:6800:8005::bd b.googlemail.l.google.com
-###2404:6800:8005::62 talk.gmail.com #Gmailæ¶“ç’†talké‘±å©‚ã‰éˆå¶…å§Ÿ
+###2404:6800:8005::62 talk.gmail.com #GmailÖĞGtalkÁÄÌì·şÎñ
 2404:6800:8005::64 gmail.google.com #www3.l.google.com
 2404:6800:8005::13 www.gmail.com #googlemail.l.google.com
 2404:6800:8005::12 gmail.com
 2404:6800:8005::12 m.gmail.com #googlemail.l.google.com
 2404:6800:8005::13 m.googlemail.com #googlemail.l.google.com
-2607:f8b0:400e:c00::6d pop.gmail.com #gmail-pop.l.google.com #Foxmail ç»›å¤Šî…¹é´é£î¬æ¶“å¶†æ•®é¸ï¿½ ipv6 æ©ç‚´å¸´é”›å±½å¼¬é—ƒï¿½ Issue 33
+2607:f8b0:400e:c00::6d pop.gmail.com #gmail-pop.l.google.com #Foxmail µÈ¿Í»§¶Ë²»Ö§³Ö ipv6 Á¬½Ó£¬²ÎÔÄ Issue 33
 2607:f8b0:400e:c00::6d gmail-pop.l.google.com
 2607:f8b0:400e:c00::10 pop.googlemail.com #googlemail-pop.l.google.com
 2607:f8b0:400e:c00::10 googlemail-pop.l.google.com
-2607:f8b0:400e:c00::6d smtp.gmail.com #gmail-smtp-msa.l.google.com #Foxmail é†å‚™ç¬‰é€îˆ›å¯”
+2607:f8b0:400e:c00::6d smtp.gmail.com #gmail-smtp-msa.l.google.com #Foxmail Ôİ²»Ö§³Ö
 2607:f8b0:400e:c00::6d gmail-smtp-msa.l.google.com
 2404:6800:8005::62 smtp1.google.com
 ###2404:6800:8005::62 smtp2.google.com
@@ -440,12 +442,12 @@
 2404:6800:8005::62 gmr-smtp-in.l.google.com
 2607:f8b0:400e:c00::10 smtp.googlemail.com #googlemail-smtp.l.google.com
 2607:f8b0:400e:c00::10 googlemail-smtp.l.google.com
-2607:f8b0:400e:c03::6d imap.gmail.com #gmail-imap.l.google.com #Foxmail é†å‚™ç¬‰é€îˆ›å¯”
+2607:f8b0:400e:c03::6d imap.gmail.com #gmail-imap.l.google.com #Foxmail Ôİ²»Ö§³Ö
 2607:f8b0:400e:c03::6d gmail-imap.l.google.com
 2607:f8b0:400e:c01::10 imap.googlemail.com #googlemail-imap.l.google.com
 2607:f8b0:400e:c01::10 googlemail-imap.l.google.com
 
-#Group ç’å“„æ½§
+#Group ÂÛÌ³
 2404:6800:8005::71 groups.google.com #groups.l.google.com
 ###2401:3800:c001::68 groups.google.cn
 2404:6800:8005::71 groups.google.com.hk #groups.l.google.com
@@ -455,10 +457,10 @@
 2404:6800:8005::89 blob-s-docs.googlegroups.com #googlegroups.l.google.com
 2404:6800:8005::89 *.googlegroups.com #googlegroups.l.google.com
 
-#Health é‹ãƒ¥æ‚
+#Health ½¡¿µ
 2404:6800:8005::65 health.google.com #www3.l.google.com
 
-#Images é¥å‰§å¢–
+#Images Í¼Æ¬
 2404:6800:8005::64 images.google.com #images.l.google.com
 2404:6800:8005::64 images.google.com.hk #images.l.google.com
 2404:6800:8005::64 images.l.google.com
@@ -470,10 +472,10 @@
 ###2404:6800:8005::62 tbn5.google.com
 ###2404:6800:8005::62 tbn6.google.com
 
-#Knol é¦ã„§åšé§å‰§î–éã„¤åŠŸ
+#Knol ÔÚÏß°Ù¿ÆÈ«Êé
 2404:6800:8005::71 knol.google.com #www3.l.google.com
 
-#Labs ç€¹ç‚ºç™ç€¹ï¿½
+#Labs ÊµÑéÊÒ
 2404:6800:8005::64 labs.google.com #www3.l.google.com
 2404:6800:8005::65 labs.google.cn #www3.l.google.com
 2404:6800:8005::8d www.googlelabs.com #appspot.l.google.com
@@ -501,10 +503,10 @@
 2404:6800:8005::8d swiffy.googlelabs.com #appspot.l.google.com
 2404:6800:8005::8d tables.googlelabs.com #appspot.l.google.com
 
-#Google Mars éî‚£æ§¦é¦æ¿æµ˜
+#Google Mars »ğĞÇµØÍ¼
 2404:6800:8005::8b mars.google.com #www3.l.google.com
 
-#Maps é¦æ¿æµ˜
+#Maps µØÍ¼
 2404:6800:8005::8b maps.google.com #maps.l.google.com
 2404:6800:8005::8b maps.google.com.hk #maps.l.google.com
 2404:6800:8005::66 maps.google.com.tw #maps.l.google.com
@@ -565,7 +567,7 @@
 2404:6800:8005::a0 maps.gstatic.cn #www.gstatic.cn
 2404:6800:8005::64 mobilemaps.clients.google.com #clients.l.google.com
 
-#Music Beta by Google æµœæˆ¦ç…¶æ¶”æ„­æ¹‡é”ï¿½
+#Music Beta by Google ÔÆÒôÀÖ·şÎñ
 2404:6800:8005::8b music.google.com #www3.l.google.com
 2404:6800:8005::75 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2404:6800:8003::74 music-streaming.l.google.com
@@ -573,7 +575,7 @@
 2404:6800:8005::75 uploadsj.clients.google.com #large-uploads.l.google.com
 2404:6800:8005::74 large-uploads.l.google.com
 
-#News ç’§å‹®î††
+#News ×ÊÑ¶
 2404:6800:8005::71 news.google.com #news.l.google.com
 2404:6800:8005::5e news.google.com.hk #news-cctld.l.google.com
 2404:6800:8005::5e news.google.com.tw #news-cctld.l.google.com
@@ -585,7 +587,7 @@
 ###2404:6800:8005::62 nt4.ggpht.com
 ###2404:6800:8005::62 nt5.ggpht.com
 
-#Orkut ç¼ƒæˆ ç²¶ç»€æƒ§å°¯
+#Orkut ÍøÂçÉçÇø
 2404:6800:8005::57 www.orkut.com #orkut-fe.l.google.com
 2404:6800:8005::56 orkut-fe.l.google.com
 2404:6800:8005::56 www.orkut.gmodules.com #orkut-opensocial.l.google.com
@@ -613,13 +615,13 @@
 2404:6800:8005::79 blog.orkut.com #ghs.l.google.com
 2404:6800:8005::79 en.blog.orkut.com #ghs.l.google.com
 
-#Pack æîˆ™æ¬¢ç»®é¹ƒâ‚¬ï¿½
+#Pack Èí¼ş¾«Ñ¡
 2404:6800:8005::67 pack.google.com #www2.l.google.com
 2404:6800:8005::66 cache.pack.google.com #redirector.c.youtube.com
 2404:6800:4005:6::6 cache.l.google.com
 2404:6800:8005::67 pack.google.cn #www2.l.google.com
 
-#Photo/Picasa é“Ñ…å¢–/ç¼ƒæˆ ç²¶é©ç¨¿å”½
+#Photo/Picasa ÕÕÆ¬/ÍøÂçÏà²á
 2404:6800:8005::5b photos.google.com #picasaweb.l.google.com
 2404:6800:8005::5b picasaweb.l.google.com
 2404:6800:8005::93 picasa.google.com #www2.l.google.com
@@ -636,20 +638,20 @@
 2404:6800:8005::71 lh6.google.com #lh2.l.google.com
 2404:6800:8005::66 lh2.l.google.com
 
-#Profiles æ¶“îƒæ±‰æ¶“å©šã€‰
+#Profiles ¸öÈËÖ÷Ò³
 2404:6800:8005::66 profiles.google.com #plus.l.google.com
 2404:6800:8005::64 plusone.google.com #plus.l.google.com
 2404:6800:8005::8b plus.google.com
-###2404:6800:8005::8a plus.google.com.hk # URL é–²å¶…ç•¾éšï¿½
+###2404:6800:8005::8a plus.google.com.hk # URL ÖØ¶¨Ïò
 2404:6800:8005::64 plus.url.google.com #www3.l.google.com
-#2404:6800:8005::8a plus.url.google.com.hk #ç€¹ç‚ºæª¯æ¶“å©ç¬‰ç€›æ¨ºæ¹ªé¨å‹«ç…™éšï¿½
+#2404:6800:8005::8a plus.url.google.com.hk #Êµ¼ÊÉÏ²»´æÔÚµÄÓòÃû
 2404:6800:8005::71 developers.google.com #www3.l.google.com
 
-#Reader é—ƒå‘°î‡°é£ï¿½
+#Reader ÔÄ¶ÁÆ÷
 2404:6800:8005::93 reader.google.com #www2.l.google.com
 
-#SafeBrowing ç€¹å¤Šåå¦«â‚¬å¨´å¬«æ¹‡é”ï¿½
-2404:6800:8005::5d sb.google.com #sb.l.google.com #ç€¹å¤Šåå¨´å¿šîå¦«â‚¬å¨´ï¿½ API
+#SafeBrowing °²È«¼ì²â·şÎñ
+2404:6800:8005::5d sb.google.com #sb.l.google.com #°²È«ä¯ÀÀ¼ì²â API
 2404:6800:8005::be sb.l.google.com
 2404:6800:8005::5b sb-ssl.google.com #sb-ssl.l.google.com
 2404:6800:8005::5b sb-ssl.l.google.com
@@ -658,28 +660,28 @@
 2404:6800:8005::71 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 2404:6800:8005::65 safebrowsing.cache.l.google.com
 
-#Sandbox éˆå¶…å§Ÿå¨Œæ¬‘æ´…
+#Sandbox ·şÎñÉ³ºĞ
 2404:6800:8005::51 sandbox.google.com #sandbox.l.google.com
 
-#Scholar ç€›ï¸½æ¹³é¼æ»…å‚¨
+#Scholar Ñ§ÊõËÑË÷
 2404:6800:8005::63 scholar.google.com
 2404:6800:8005::63 scholar.google.com.hk
 2404:6800:8005::63 scholar.google.com.tw
 2404:6800:8005::63 scholar.l.google.com
 2404:6800:8005::a0 scholar.google.cn
 
-#Sites é—å¿ç¶”éªå†²å½´
+#Sites Ğ­×÷Æ½Ì¨
 2404:6800:8005::8b sites.google.com #www3.l.google.com
 2404:6800:8005::71 gsamplemaps.googlepages.com #www3.l.google.com
 
-#SketchUp 3D å¯¤çƒ˜Äå®¸ãƒ¥å¿
+#SketchUp 3D ½¨Ä£¹¤¾ß
 2404:6800:8005::66 sketchup.google.com
 2404:6800:8005::66 sketchup.l.google.com
 
-#Google Store Google éŸå——ç°µé”›å ¥å™·é—ˆãˆ¡æ¹å¯°å î˜¿ç’‹é”‹ç“•é‘·î„ç¹é¨å‹ªç¬¢ç‘—å®åš­éî‡†ç´éå¿šèƒºå§å­´é­ã‚ƒâ‚¬ä½½å°ªé‰îˆ˜â‚¬ä½¸çš¬éœâ•‚å‰°ç»›å¤Œç“‘é”›ï¿½
+#Google Store Google ÉÌµê£¨ÀïÃæÓĞºÜ¶à¹È¸è×Ô¼ºµÄ¶«Î÷³öÊÛ£¬Ïñ¹È¸èTĞô¡¢²è±­¡¢Ğ¡ÍæÒâµÈµÈ£©
 #2404:6800:8005::62 www.googlestore.com
 
-#Google Talk/Chat é‘±å©‚ã‰
+#Google Talk/Chat ÁÄÌì
 #2404:6800:8005::7d talk.google.com
 #2404:6800:8005::7d talk.l.google.com
 ###2404:6800:8005::62 default.talk.google.com
@@ -689,22 +691,22 @@
 2404:6800:8005::bc mtalk.google.com #mobile-gtalk.l.google.com
 2404:6800:8005::bc mobile-gtalk.l.google.com
 
-#Tools å®¸ãƒ¥å¿
+#Tools ¹¤¾ß
 2404:6800:8003::65 tools.google.com #tools.l.google.com
 2404:6800:8003::65 toolbar.google.com #tools.l.google.com
 2404:6800:8005::8b toolbar.google.com.hk #tools.l.google.com
 2404:6800:8003::65 tools.l.google.com
 
-#Translate ç¼ˆæ˜ç˜§
+#Translate ·­Òë
 2404:6800:8005::8b translate.google.com #www3.l.google.com
 2404:6800:8005::8b translate.google.com.hk #www3.l.google.com
 2404:6800:8005::8b translate.google.com.tw #www3.l.google.com
 2404:6800:8005::a0 translate.google.cn #www.google.cn
 
-#Trends ç“’å¬ªå¨
+#Trends Ç÷ÊÆ
 2404:6800:8005::67 trends.google.com #www2.l.google.com
 
-#Video ç‘™å—›î•¶
+#Video ÊÓÆµ
 2404:6800:8005::65 video.google.com #video.l.google.com
 2404:6800:8005::8b video.google.com.hk #video.l.google.com
 2404:6800:8005::8a video.google.com.tw #video.l.google.com
@@ -1759,7 +1761,7 @@
 2404:6800:8005::a0 2.gvt0.cn #www.gvt0.cn
 2404:6800:8005::a0 3.gvt0.cn #www.gvt0.cn
 
-#Wave å¨‰ãˆ¡æ°®
+#Wave ²¨ÀË
 2404:6800:8005::76 wave.google.com #www4.l.google.com
 ###2404:6800:8005::76 wave0.google.com
 2404:6800:8005::76 wave1.google.com #www4.l.google.com
@@ -1769,7 +1771,7 @@
 2404:6800:8005::7b wifi.google.com
 2404:6800:8005::7b wifi.l.google.com
 
-#iGoogle Modules iGoogle çå¿“ä¼éï¿½
+#iGoogle Modules iGoogle Ğ¡¹¤¾ß
 2404:6800:8005::63 gmodules.com
 2404:6800:8005::84 www.gmodules.com #googlehosted.l.googleusercontent.com
 2404:6800:8005::84 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
@@ -1794,7 +1796,7 @@
 2404:6800:8005::69 partnerpage.google.com #www2.l.google.com
 2404:6800:8005::84 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 
-#GStatic Google é—ˆæ¬â‚¬ä½¹æƒæµ è·ºç“¨éŒï¿½
+#GStatic Google ¾²Ì¬ÎÄ¼ş´æ´¢
 2404:6800:8005::78 www.gstatic.com
 2404:6800:8005::78 csi.gstatic.com
 2404:6800:8005::78 maps.gstatic.com
@@ -1817,7 +1819,7 @@
 2404:6800:8005::71 mt7.gstatic.com
 2404:6800:8005::a0 www.gstatic.cn
 
-#Google APIs å¯®â‚¬é™æˆå¸´é™ï½†æ¹‡é”ï¿½
+#Google APIs ¿ª·¢½Ó¿Ú·şÎñ
 2404:6800:8005::8b apis.google.com #plus.l.google.com
 2404:6800:8005::64 chart.apis.google.com #clients.l.google.com
 2404:6800:8005::5f www.googleapis.com #googleapis.l.google.com
@@ -2383,7 +2385,7 @@
 2404:6800:4005:2::19 r20.hkg05s03.c.bigcache.googleapis.com
 2404:6800:4005:3::19 r20.hkg05s04.c.bigcache.googleapis.com
 
-#Google Hosted éµæ¨¼î…¸éˆå¶…å§Ÿ
+#Google Hosted ÍĞ¹Ü·şÎñ
 2404:6800:8005::84 commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
 2404:6800:8005::84 googlehosted.l.googleusercontent.com
 2404:6800:8005::84 bucket.commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
@@ -2400,7 +2402,7 @@
 2404:6800:8005::84 base4.googlehosted.com #googlehosted.l.googleusercontent.com
 2404:6800:8005::84 base5.googlehosted.com #googlehosted.l.googleusercontent.com
 
-#GoogleUserContent é¢ã„¦åŸ›é‘·î„ç•¾æ¶”å¤Œæ®‘Googleéˆå¶…å§Ÿ
+#GoogleUserContent ÓÃ»§×Ô¶¨ÒåµÄGoogle·şÎñ
 2404:6800:8005::84 www.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:8005::84 androidmarket.googleusercontent.com
 2404:6800:8005::84 blogger.googleusercontent.com
@@ -2607,15 +2609,15 @@
 2404:6800:8005::84 40-wave-opensocial.googleusercontent.com
 2404:6800:8005::84 *-wave-opensocial.googleusercontent.com
 
-##Googleéæœµç²¬éˆå¶…å§Ÿ
+##GoogleÆäËû·şÎñ
 
 #YouTube
-# æ¿¡å‚äº£æ©ç‚´å¸´é–¿æ¬’î‡¤é´æ ¬ç¹ƒé±î®ç´ç’‡å³°çš¾ç’‡æ›åé‚å›¨æµ›é¹ãˆ¡æšŸé¹î†»è…‘è¹‡å†¨å¢ ç¼‚â‚¬é”›ï¿½
-# æ££æ¬è… 2404:6800:4005:
-# é™æ¿å¯³ 2404:6800:4008:
-# é‚æ¿å§é§ï¿½ 2404:6800:4003:
-# é–²æˆîš 2404:6800:4007:
-# å¨²æ¶™æ½é­ï¿½ 2001:4860:4007:
+# ÈçÓöÁ¬½Ó´íÎó»ò¹ıÂı£¬Çë³¢ÊÔÈ«ÎÄÌæ»»Êı¾İÖĞĞÄÇ°×º£º
+# Ïã¸Û 2404:6800:4005:
+# Ì¨±± 2404:6800:4008:
+# ĞÂ¼ÓÆÂ 2404:6800:4003:
+# ½ğÄÎ 2404:6800:4007:
+# ÂåÉ¼í¶ 2001:4860:4007:
 2404:6800:8005::be youtube.com
 2404:6800:8005::5d www.youtube.com #youtube-ui.l.google.com
 2404:6800:8005::88 au.youtube.com #youtube-ui.l.google.com
@@ -3661,7 +3663,7 @@
 2404:6800:4005::19 r20.maa03s08.c.youtube.com
 2404:6800:4005:1::19 r20.maa03s09.c.youtube.com
 
-#AdWords/AdSense éªå®æ†¡éˆå¶…å§Ÿ
+#AdWords/AdSense ¹ã¸æ·şÎñ
 ###2404:6800:8005::62 www.googlesyndication.com
 2404:6800:8005::9a www.googleadservices.com #pagead.l.doubleclick.net
 2404:6800:8005::9a pagead2.googlesyndication.com #pagead.l.doubleclick.net
@@ -4084,7 +4086,7 @@
 2404:6800:8005::95 *.fr.doubleclick.net #dart.l.doubleclick.net
 2404:6800:8005::95 *.jp.doubleclick.net #dart.l.doubleclick.net
 
-#Analytics é’å—˜ç€½
+#Analytics ·ÖÎö
 2404:6800:8005::71 www.google-analytics.com #www-google-analytics.l.google.com
 2404:6800:8005::61 ssl.google-analytics.com #ssl-google-analytics.l.google.com
 2404:6800:8005::61 *.google-analytics.com
@@ -4093,7 +4095,7 @@
 2404:6800:8005::61 ssl-google-analytics.l.google.com
 2404:6800:8005::63 analytics.google.com #www2.l.google.com
 
-#Android Google ç»‰è¯²å§©é¿å¶„ç¶”ç»¯è¤ç²º
+#Android Google ÒÆ¶¯²Ù×÷ÏµÍ³
 2404:6800:8005::64 www.android.com #www3.l.google.com
 2404:6800:8005::69 android.com
 2404:6800:8005::64 developer.android.com #www3.l.google.com
@@ -4497,26 +4499,26 @@
 2404:6800:8005::8b www.feedburner.com #www3.l.google.com
 2404:6800:8005::76 feeds.feedburner.com #www4.l.google.com
 2404:6800:8005::85 feeds2.feedburner.com #www4.l.google.com
-2404:6800:8005::76 feedproxy.google.com #www4.l.google.com #Feed ç’ºå® æµ†æµ ï½‡æ‚Š
+2404:6800:8005::76 feedproxy.google.com #www4.l.google.com #Feed Ìø×ª´úÀí
 
-#The Go Programming Language Go ç¼‚æ «â–¼ç’‡î…¡â–ˆ
+#The Go Programming Language Go ±à³ÌÓïÑÔ
 2404:6800:8005::8d golang.org
 2404:6800:8005::8d www.golang.org #golang.org
 2404:6800:8005::79 blog.golang.org #ghs.l.google.com
 2404:6800:8005::8d play.golang.org
 2404:6800:8005::8d tour.golang.org
 
-#Goo.gl Googleé­î… ç¶‰é§â‚¬éˆå¶…å§Ÿ
+#Goo.gl Google¶ÌÍøÖ··şÎñ
 2404:6800:8005::64 goo.gl
 2404:6800:8005::66 g.co
 
-#html5rocks HTML5 éºã„¥ç®æ¶“æ’»î•½ç¼ƒæˆ ç¯
+#html5rocks HTML5 ÍÆ¹ã×¨ÌâÍøÕ¾
 2404:6800:8005::79 www.html5rocks.com #ghs.l.google.com
 2404:6800:8005::79 slides.html5rocks.com #ghs.l.google.com
 2404:6800:8005::79 playground.html5rocks.com #ghs.l.google.com
 2404:6800:8005::79 studio.html5rocks.com #ghs.l.google.com
 
-#Google.org Google éî„‚æ³­
+#Google.org Google ¹«Òæ
 2404:6800:8005::79 blog.google.org #ghs.l.google.com
 
 #Panoramio
@@ -4524,37 +4526,37 @@
 2404:6800:8005::80 static.panoramio.com #storage.l.googleusercontent.com
 2404:6800:8005::79 blog.panoramio.com #ghs.l.google.com
 
-#Recaptcha æ¥ å²ƒç˜‰é®ä½¹æ¹‡é”ï¿½
+#Recaptcha ÑéÖ¤Âë·şÎñ
 2404:6800:8005::63 www.recaptcha.net #www.l.google.com
 2404:6800:8005::93 api.recaptcha.net #www.l.google.com
 2404:6800:8005::67 api-secure.recaptcha.net #www.l.google.com
 2404:6800:8005::67 mailhide.recaptcha.net #www.l.google.com
 
-#Google Wave Federation Protocol è·¯ GWave é—å¿šî†…å¯®â‚¬å©§æ„¯î…¸é’ï¿½
+#Google Wave Federation Protocol ¡¤ GWave Ğ­Òé¿ªÔ´¼Æ»®
 2404:6800:8005::79 www.waveprotocol.org #ghs.l.google.com
 
-#The WebM Project WebM å¯®â‚¬é€æƒ§î˜¿æ¿¯æç¶‹æ¤¤åœ­æ´°
+#The WebM Project WebM ¿ª·Å¶àÃ½ÌåÏîÄ¿
 2404:6800:8005::93 webmproject.org
 2404:6800:8005::64 www.webmproject.org #www3.l.google.com
 2404:6800:8005::79 lists.webmproject.org #ghs.l.google.com
 2404:6800:8005::79 blog.webmproject.org #ghs.l.google.com
 2404:6800:8005::79 www.webm-ccl.org #ghs.l.google.com
 
-#Chrome é©ç¨¿å§æ¶“æ’»î•½ç¼ƒæˆ ç¯
+#Chrome Ïà¹Ø×¨ÌâÍøÕ¾
 2404:6800:8005::71 www.chromercise.com #www3.l.google.com
 2404:6800:8005::79 www.chromeexperiments.com #ghs.l.google.com
 2404:6800:8005::79 www.20thingsilearned.com #ghs.l.google.com
 
-#IPv6 æ¶“æ’»î•½
+#IPv6 ×¨Ìâ
 2404:6800:8005::63 ipv6test.google.com #ipv6test.l.google.com
 2404:6800:8005::63 ipv4.google.com #ipv4.l.google.com
-#2404:6800:8005::63 ??????.ds.ipv6test.google.com #é¥æ¶šéª‡é©ç†·æ‚•æ¶“æ´ªæ®¢éˆå“„åšæµ£å¶†æšŸç€›ï¿½
+#2404:6800:8005::63 ??????.ds.ipv6test.google.com #ËÄ¼¶ÓòÃûÎªËæ»úÁùÎ»Êı×Ö
 #2404:6800:8005::63 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
 2404:6800:8005::63 ds.ipv6test.l.google.com
 2001:4860:b007::97 chrome.googleechotest.com #chromeecho.l.google.com
 2001:4860:b007::97 chromeecho.l.google.com
 
-#éæœµç²¬æ¶“æ’»î•½ç»”ï¿½
+#ÆäËû×¨ÌâÕ¾
 2404:6800:8005::8b www.data-vocabulary.org #www3.l.google.com
 2404:6800:8005::8a www.googleinsidesearch.com #www3.l.google.com
 2404:6800:8005::79 www.teachparentstech.org #ghs.l.google.com
@@ -4570,7 +4572,7 @@
 2404:6800:8005::79 try.dartlang.org #ghs.l.google.com
 2404:6800:8005::79 news.dartlang.org #ghs.l.google.com
 
-###éæœµç²¬æ¶“ç»˜ç¥¦éˆå¶…å§Ÿ
+###ÆäËûÖ÷Á÷·şÎñ
 #bit.ly / j.mp
 #2001:418:e801::10:1 bit.ly
 #2001:418:e801::11:1 bit.ly
@@ -4593,7 +4595,7 @@
 #2001:418:e801::12:7 api.bitly.com
 #2001:418:e801::15:7 api.bitly.com
 
-#Facebook é‘´æ­Œæ°¨ç¼ƒï¿½
+#Facebook Á³Æ×Íø
 2a03:2880:10:cf01:face:b00c::: facebook.com
 2a03:2880:10:8f02:face:b00c:0:25 www.facebook.com
 2a03:2880:10:8f02:face:b00c:0:26 api-read.facebook.com
@@ -4614,16 +4616,16 @@
 2620:0:1cfe:face:b00c::6 apps.v6.facebook.com
 2620:0:1cfe:face:b00c::3 333.channel.facebook.com #?
 #2620:0:1cfe:face:b00c::3 333.ctest.facebook.com
-#æ¿¡å‚æ¸¶å§ï½…çˆ¶æµ£è·¨æ•¤æ¤¤ç”¸æ½°æ´æ›¢å„´é‘±å©‚ã‰é”ç†»å…˜é”›å²ƒî‡¬é–«æ°³ç¹ƒ pac æµ ï½‡æ‚Š *.channel.facebook.com
+#ÈçĞèÕı³£Ê¹ÓÃÒ³Ãæµ×²¿ÁÄÌì¹¦ÄÜ£¬ÇëÍ¨¹ı pac ´úÀí *.channel.facebook.com
 2a03:2880:10:cf01:face:b00c:0:4 developers.facebook.com
 #2620:0:1cfe:face:b00c::3 developers.v6.facebook.com
 #2620:0:1cfe:face:b00c::3 external.ak.fbcdn.net
 2620:0:1cfe:face:b00c::3 error.12.channel.facebook.com #?
 2620:0:1cfe:face:b00c::3 pixel.v6.facebook.com #www.v6.facebook.com
 2620:0:1cfe:face:b00c::3 vupload.facebook.com #?
-#2620:0:1cfe:face:b00c::3 static.ak.fbcdn.net #ç¼ƒæˆ ç¯ç’§å‹¬ç°®é”›å æµ˜éå¿‹â‚¬ä½½å‰¼éˆî„‚ç“‘é”›å¤‹æŸŠéˆå“„åŸ—çæ°­æ¹­é–®ã„§è®²é‘·ï¿½ ipv6
-#2620:0:1cfe:face:b00c::4 s-static.ak.facebook.com #https æ©ç‚´å¸´é¢ã„§ç¶‰ç»”æ¬’ç¥«å©§æ„¶ç´ç’‡ä½·åŠŸéˆå¤æ£¶æ£°ï¿½
-2620:0:1cfe:face:b00c::7 m.v6.facebook.com #ç»‰è¯²å§©é—ï¿½
+#2620:0:1cfe:face:b00c::3 static.ak.fbcdn.net #ÍøÕ¾×ÊÔ´£¨Í¼Ïñ¡¢½Å±¾µÈ£©ĞÂ»úÖÆÉĞÎ´²¿ÊğÖÁ ipv6
+#2620:0:1cfe:face:b00c::4 s-static.ak.facebook.com #https Á¬½ÓÓÃÍøÕ¾×ÊÔ´£¬Ö¤ÊéÓĞÎÊÌâ
+2620:0:1cfe:face:b00c::7 m.v6.facebook.com #ÒÆ¶¯°æ
 2610:d0:face::9 www.lisp6.facebook.com
 2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
 
@@ -4683,30 +4685,30 @@
 2607:f128:47::1:1 www.plurk.com
 2607:f128:47::1:1 ipv6.plurk.com
 
-#Blizzard Entertainment é†æ’®æ´©æ¿å˜ç®°
+#Blizzard Entertainment ±©Ñ©ÓéÀÖ
 2001:1890:e000:c01:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
-###éæœµç²¬IPv6ç¼ƒæˆ ç¯
-##CN æ¶“î…æµ—æ¾¶Ñ‡æª°
-#GuAo.hk ç’‹å³°ã‚¥
+###ÆäËûIPv6ÍøÕ¾
+##CN ÖĞ¹ú´óÂ½
+#GuAo.hk ¹È°Â
 2001:470:a803::250 www.guao.hk
 2001:470:a803::250 guao.hk
 2600:3c00::f03c:91ff:fe93:67f2 img.gd
 
-#kenengba.com é™îˆå…˜éšï¿½
+#kenengba.com ¿ÉÄÜ°É
 2001:470:18:5f5::2 www.kenengba.com
 2001:470:18:5f5::2 m.kenengba.com
 
-#Shooter çå‹¬å¢œç¼ƒï¿½
+#Shooter ÉäÊÖÍø
 2607:f740:90::ea8 shooter.cn
 2607:f740:90::ea8 www.shooter.cn
 2607:f740:90::ea8 edu.shooter.cn
-#2607:f740:90::ea8 file.shooter.cn #éˆå¤ç˜‰æ¶”ï¹î„Ÿé›å©ç´æµ£å——å½²æµ ãƒ¦î„œç”¯é•ç¬…æï¿½
+#2607:f740:90::ea8 file.shooter.cn #ÓĞÖ¤Êé¾¯¸æ£¬µ«¿ÉÒÔÕı³£ÏÂÔØ
 
-#Yegle æ¶“â‚¬é—ƒï¿½
+#Yegle Ò»¸ó
 2001:470:0:19b::b869:805d yegle.net
 
-##US ç¼‡åº¡æµ—
+##US ÃÀ¹ú
 #Mozilla
 2620:101:8008:5::2:1 www.mozilla.org
 2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
@@ -4728,7 +4730,7 @@
 2620:101:8008:5::2:8 www.firefox.com #firefox.com
 2620:101:8008:5::2:8 firefox.com
 
-#Microsoft å¯°î†¿è’‹
+#Microsoft Î¢Èí
 2a01:111:2004:3::13 www.microsoft.com
 2600:140e:1:1::3cfe:83a3 i.microsoft.com
 2600:140e:1::3cfe:83c8 i2.microsoft.com
@@ -4736,7 +4738,7 @@
 2600:140e:1::3cfe:83ca i4.microsoft.com
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
 
-#WikiMedia ç¼æ‘ç†€æ¿¯æç¶‹
+#WikiMedia Î¬»ùÃ½Ìå
 2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
 2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
 #2620:0:860:2:230:48ff:fe5a:eb1e download.wikimedia.org #Wikimedia Downloads
@@ -4771,7 +4773,7 @@
 2620:0:861:ed1a::7 wikiversity-lb.wikimedia.org #wikiversity-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::8 mediawiki-lb.wikimedia.org #mediawiki-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::c m.wikimedia.org
-#WikiBooks ç¼æ‘ç†€éæ¬‘î–æ¶”ï¿½
+#WikiBooks Î¬»ù½Ì¿ÆÊé
 2620:0:860:ed1a::4 wikibooks.org
 2620:0:861:ed1a::4 www.wikibooks.org #wikibooks-lb.wikimedia.org
 2620:0:861:ed1a::4 aa.wikibooks.org
@@ -4895,7 +4897,7 @@
 2620:0:861:ed1a::4 zh.wikibooks.org
 2620:0:861:ed1a::4 zh-min-nan.wikibooks.org
 2620:0:861:ed1a::4 zu.wikibooks.org
-#WikiNews ç¼æ‘ç†€é‚ä¼´æ¤ˆ
+#WikiNews Î¬»ùĞÂÎÅ
 2620:0:860:ed1a::6 wikinews.org
 2620:0:861:ed1a::6 www.wikinews.org #wikinews-lb.wikimedia.org
 2620:0:861:ed1a::6 ar.wikinews.org
@@ -4931,7 +4933,7 @@
 2620:0:861:ed1a::6 tr.wikinews.org
 2620:0:861:ed1a::6 uk.wikinews.org
 2620:0:861:ed1a::6 zh.wikinews.org
-#WikiPedia ç¼æ‘ç†€é§å‰§î–
+#WikiPedia Î¬»ù°Ù¿Æ
 2620:0:860:ed1a::1 wikipedia.org
 2620:0:861:ed1a::1 www.wikipedia.org #wikipedia-lb.wikimedia.org
 2620:0:861:ed1a::1 aa.wikipedia.org
@@ -5198,11 +5200,11 @@
 2620:0:861:ed1a::1 zh-min-nan.wikipedia.org
 2620:0:861:ed1a::1 zh-yue.wikipedia.org
 2620:0:861:ed1a::1 zu.wikipedia.org
-#WikiPedia Mobile ç¼æ‘ç†€é§å‰§î–ç»‰è¯²å§©é—ï¿½
+#WikiPedia Mobile Î¬»ù°Ù¿ÆÒÆ¶¯°æ
 2620:0:861:ed1a::c m.wikipedia.org #m.wikimedia.org
 2620:0:861:ed1a::c en.m.wikipedia.org
 2620:0:861:ed1a::c zh.m.wikipedia.org
-#WikiQuote ç¼æ‘ç†€ç’‡î…ç¶
+#WikiQuote Î¬»ùÓïÂ¼
 2620:0:860:ed1a::3 wikiquote.org
 2620:0:861:ed1a::3 www.wikiquote.org #wikiquote-lb.wikimedia.org
 2620:0:861:ed1a::3 af.wikiquote.org
@@ -5293,7 +5295,7 @@
 2620:0:861:ed1a::3 za.wikiquote.org
 2620:0:861:ed1a::3 zh.wikiquote.org
 2620:0:861:ed1a::3 zh-min-nan.wikiquote.org
-#WikiSource ç¼æ‘ç†€é‚å›§ç°±
+#WikiSource Î¬»ùÎÄ¿â
 2620:0:860:ed1a::5 wikisource.org
 2620:0:861:ed1a::5 www.wikisource.org #wikisource-lb.wikimedia.org
 2620:0:861:ed1a::5 ang.wikisource.org
@@ -5356,7 +5358,7 @@
 2620:0:861:ed1a::5 yi.wikisource.org
 2620:0:861:ed1a::5 zh.wikisource.org
 2620:0:861:ed1a::5 zh-min-nan.wikisource.org
-#Wikiversity ç¼æ‘ç†€ç€›ï¹‚æ«Œ
+#Wikiversity Î¬»ùÑ§Ôº
 2620:0:860:ed1a::7 wikiversity.org
 2620:0:861:ed1a::7 www.wikiversity.org #wikiversity-lb.wikimedia.org
 2620:0:861:ed1a::7 ar.wikiversity.org
@@ -5373,7 +5375,7 @@
 2620:0:861:ed1a::7 pt.wikiversity.org
 2620:0:861:ed1a::7 ru.wikiversity.org
 2620:0:861:ed1a::7 sv.wikiversity.org
-#Wiktionary ç¼æ‘ç†€ç’‡å¶…å€
+#Wiktionary Î¬»ù´Êµä
 2620:0:860:ed1a::2 wiktionary.org
 2620:0:861:ed1a::2 www.wiktionary.org #wiktionary-lb.wikimedia.org
 2620:0:861:ed1a::2 aa.wiktionary.org
@@ -5577,12 +5579,12 @@
 2001:470:1d:28::6 static.uncyc.org
 2001:470:1d:28::6 ansaikuropedia.org
 
-#é—åº£æ´˜
+#»ªÃË
 2001:470:a:4d::2 camoe.org
 2001:470:a:4d::2 g.camoe.org
 2001:470:a:4d::2 g.camoe.net
 
-##AT æ¿‚ãƒ¥æ¹´é’ï¿½
+##AT °ÂµØÀû
 #Tor Project
 2001:858:10f:f::1001 torproject.org
 2001:858:10f:f::1001 www.torproject.org
@@ -5592,13 +5594,13 @@
 2620:0:6b0:b:1a1a:0:26e5:480e atlas.torproject.org
 2620:0:6b0:b:1a1a:0:26e5:480b svn.torproject.org
 
-##AU å©¢å†²ã‡é’â•€ç°¹
+##AU °Ä´óÀûÑÇ
 #APNIC
 2001:dc0:2001:11::211 www.apnic.net
 2001:dc0:2001::14 wq.apnic.net
 2001:dc0:2001:11::205 submit.apnic.net #nori.apnic.net
 
-#DE å¯°å³°æµ—
+#DE µÂ¹ú
 2002:c247:6b96::1 thepiratebay.se
 2002:c247:6b96::1 www.thepiratebay.se
 2002:c247:6b97::1 static.thepiratebay.se
@@ -5606,47 +5608,47 @@
 2002:c247:6b96::1 www.thepiratebay.org
 2002:c247:6b97::1 static.thepiratebay.org
 
-##FR å¨‰æ›æµ—
+##FR ·¨¹ú
 2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
 2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
 
-##JP éƒãƒ¦æ¹°
-#JAIST é–æ¥…æ«¢éå ¢î¬ç»‰æˆî„Ÿé¶â‚¬ç›æ’³ã‡ç€›ï¹‚æ«Œæ¾¶Ñƒî„Ÿ
+##JP ÈÕ±¾
+#JAIST ±±ê‘ÏÈ¶Ë¿ÆÑ§¼¼Ğg´óÑ§Ôº´óÑ§
 2001:200:141:feed::feed ftp.jaist.ac.jp
 2001:200:141:feed::feed jaist.dl.sourceforge.net
 
-##NL é‘½å³°å
+##NL ºÉÀ¼
 #Ubuntu Archive
 2001:7b8:3:37::21:2 ipv6.torrent.ubuntu.com #IPv6 Tracker
 2001:7b8:60b:2:213:154:234:36 nl.archive.ubuntu.com #ubuntuarchive.bit.nl #Archive Mirror NL
 
-#PA å®¸å­˜å¬æ¤¹ï¿½
+#PA °ÍÄÃÂí
 2a02:29b8:1925::2 bitsnoop.com
 
-#SE éŸç‚²å€
+#SE Èğµä
 2a00:1a28:1151:0:20c:29ff:feeb:294 torrage.com
 2a00:1a28:1151:4::117:443 zoink.it
 
-#éæœµç²¬éµæ¨¼î…¸é¦ï¿½ Google é¨å‹¬æ¹‡é”ï¿½
-#BlogSpot æ¶“å©„æ®‘éæœµç²¬ç”¯å“¥æ•¤é—æ°¬î…¹ #blogspot.l.google.com
+#ÆäËûÍĞ¹ÜÔÚ Google µÄ·şÎñ
+#BlogSpot ÉÏµÄÆäËû³£ÓÃ²©¿Í #blogspot.l.google.com
 2404:6800:8005::84 googlesystem.blogspot.com #Google Operating System
 2404:6800:8005::84 ipv6-or-no-ipv6.blogspot.com #IPv6 Related Stuff
-2404:6800:8005::84 gfwrev.blogspot.com #GFW é¶â‚¬éˆîˆç˜ç’ï¿½
-2404:6800:8005::84 kamonka.blogspot.com #NHK ç»¾î„ç¶é—å›©ç°¿é–«ï¿½
+2404:6800:8005::84 gfwrev.blogspot.com #GFW ¼¼ÊõÆÀÂÛ
+2404:6800:8005::84 kamonka.blogspot.com #NHK ¼ÍÂ¼Æ¬¾«Ñ¡
 
-#Google Code æ¶“å©„æ®‘éæœµç²¬ç”¯å“¥æ•¤æ¤¤åœ­æ´° #googlecode.l.google.com
+#Google Code ÉÏµÄÆäËû³£ÓÃÏîÄ¿ #googlecode.l.google.com
 2404:6800:8005::52 ipv6-hosts.googlecode.com
 2404:6800:8005::52 kibbles.googlecode.com
 
-# GAE æ¶“å©„æ®‘ç”¯å“¥æ•¤æ´æ—‚æ•¤ #appspot.l.google.com
+# GAE ÉÏµÄ³£ÓÃÓ¦ÓÃ #appspot.l.google.com
 2404:6800:8005::8d gsdview.appspot.com
 2404:6800:8005::8d wave-api.appspot.com #Google Wave API
 2404:6800:8005::8d wave-skynet.appspot.com #SkyNet
 2404:6800:8005::8d mytracks.appspot.com #My Tracks for Android
-2404:6800:8005::8d autoproxy2pac.appspot.com #é‘·î„å§©æµ ï½‡æ‚Šé–°å¶‡ç–†é‘´æ°­æ¹°é¢ç†¸åšé£ï¿½
+2404:6800:8005::8d autoproxy2pac.appspot.com #×Ô¶¯´úÀíÅäÖÃ½Å±¾Éú³ÉÆ÷
 2404:6800:8005::8d fakegdict.appspot.com #Fake Google Dictionary
 
-# éµæ¨¼î…¸é¦ï¿½ Google æ¶“å©„æ®‘éæœµç²¬ç”¯å“¥æ•¤é©ç†·æ‚• #ghs.l.google.com
+# ÍĞ¹ÜÔÚ Google ÉÏµÄÆäËû³£ÓÃÓòÃû #ghs.l.google.com
 2404:6800:8005::79 www.akb48plus.com
 2404:6800:8005::79 wdyl.com
 2404:6800:8005::79 www.wdyl.com
@@ -5656,9 +5658,9 @@
 2404:6800:8005::79 blog.xmarks.com
 2404:6800:8005::79 www.miraisearch.jp
 
-### IPv6/IPv4 æî„å´²æµ ï½‡æ‚Š
-# æµ ãƒ¤ç¬…é¦æ¿æ½ƒé§å›¬æ½ªéšå‹­ç¶‰ç»”æ¬ç•¼é‚ç‘°æ¹´é§â‚¬é”›å±½ç˜æµœï¿½ LITNET-NAT64 ç¼ƒæˆî†Œé»æ„ªç·µæî„å´²æµ ï½‡æ‚Šéˆå¶…å§Ÿé”›å Ÿå¦§éˆîˆœç²é‘ºå‚¦ç´šéŠ†ï¿½
-# DNS64 éˆå¶…å§Ÿé£îŸ’ç´°
+### IPv6/IPv4 ×ª»»´úÀí
+# ÒÔÏÂµØÖ·¾ù·Ç¸÷ÍøÕ¾¹Ù·½µØÖ·£¬ÊôÓÚ LITNET-NAT64 Íø¶ÎÌá¹©×ª»»´úÀí·şÎñ£¨¼¼ÊõÏ¸½Ú£©¡£
+# DNS64 ·şÎñÆ÷£º
 2001:778::37 dns64.litnet.lt
 
 #Amazon S3
@@ -5698,7 +5700,7 @@
 2001:778:0:ffff:64:0:45ab:e319 hphotos-snc7.fbcdn.net #hphotos-04-snc7.fbcdn.net
 
 #Google Plus
-2001:778:0:ffff:64:0:1faa:a606 plus.url.google.com.hk #é—ˆç‚²ç•¼é‚ç™¸ç´éˆå¤æ•Šç’‡îˆî‡¬å§¹å›¨å§¤
+2001:778:0:ffff:64:0:1faa:a606 plus.url.google.com.hk #·Ç¹Ù·½£¬ÓĞ´íÎóÇë»ã±¨
 
 #Twitter
 2001:778:0:ffff:64:0:c73b:940a twitter.com
@@ -5759,7 +5761,7 @@
 2001:778:0:ffff:64:0:5f64:4f90 si5.twimg.com #e3826.g.akamaiedge.net
 2001:778:0:ffff:64:0:b8a9:4f21 widgets.twimg.com #orig-10012.twitter.cotcdn.net
 
-#WikiMedia ç¼æ‘ç†€æ¿¯æç¶‹
+#WikiMedia Î¬»ùÃ½Ìå
 2620:0:861:ed1a::a bits-geo.wikimedia.org #bits-lb.eqiad.wikimedia.org
 2001:778:0:ffff:64:0:d050:98b9 dataset2.wikimedia.org
 2001:778:0:ffff:64:0:d050:98b9 download.wikimedia.org #dumps.wikimedia.org
@@ -5776,7 +5778,7 @@
 2001:778:0:ffff:64:0:d050:9893 svn.wikimedia.org #formey.wikimedia.org
 2001:778:0:ffff:64:0:d050:9896 blog.wikimedia.org #marmontel.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee9 geoiplookup.wikimedia.org #geoiplookup-lb.esams.wikimedia.org
-#WikiPedia ç¼æ‘ç†€é§å‰§î–
+#WikiPedia Î¬»ù°Ù¿Æ
 2001:778:0:ffff:64:0:d050:98b9 download.wikipedia.org
 2001:778:0:ffff:64:0:d050:9885 mail.wikipedia.org
 
@@ -5788,6 +5790,6 @@
 2001:778:0:ffff:64:0:4a78:bc7d ja.doraemon.wikia.com
 2001:778:0:ffff:64:0:4a78:bc7d zh-cn.doraemon.wikia.com
 2001:778:0:ffff:64:0:4a78:bc7d zh-tw.doraemon.wikia.com
-2001:778:0:ffff:64:0:4a78:bc7d evchk.wikia.com #æ££æ¬è…ç¼èŒ¬æ€ æ¾¶Ñƒå€
+2001:778:0:ffff:64:0:4a78:bc7d evchk.wikia.com #Ïã¸Û¾W½j´óµä
 2001:778:0:ffff:64:0:4a78:bc7d uncyclopedia.wikia.com
 2001:778:0:ffff:64:0:4a78:bc7d cn.uncyclopedia.wikia.com
