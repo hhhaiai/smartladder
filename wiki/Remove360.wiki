@@ -2,6 +2,6 @@
 使用梯子的时候 建议*卸载360*
 
 推荐杀软
- * [Avast! http://www.avast.com/zh-cn/index] 
- * [迈克菲 http://t.cn/qswfm]
- * [金山毒霸 http://www.ijinshan.com]
+ * [http://www.avast.com/zh-cn/index Avast!] 
+ * [http://www.mcafee.com/cn/ Mcafee]
+ * [http://www.ijinshan.com 金山毒霸]
