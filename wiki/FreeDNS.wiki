@@ -1,4 +1,4 @@
-#labels 免费DNS服务器
+#labels 免费公用DNS服务器,防止DNS污染,防止DNS劫持
 ==免费公用DNS服务器==
 ===[http://safe.114dns.com/ 中国114DNS]^推荐^===
    * 114.114.114.114
