@@ -1,6 +1,5 @@
 #labels 免费公用DNS服务器,防止DNS污染,防止DNS劫持
-==免费公用DNS服务器==
-<g:plusone size="medium"></g:plusone>
+==免费公用DNS服务器== <g:plusone size="medium"></g:plusone>
 ===[http://safe.114dns.com/ 中国114DNS]^推荐^===
    * 114.114.114.114
    * 114.114.115.115  
