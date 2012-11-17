@@ -11,29 +11,26 @@
 [https://developers.google.com/speed/public-dns/ GooglePubilcDNS]
 
 
-   * OpenDNS
+*OpenDNS 
 208.67.222.222
 208.67.220.220
-   * NortonDNS 诺顿DNS
-198.153.192.1
-198.153.194.1
-   * Comodo Secure DNS
-8.26.56.26
-8.20.247.20
-   * ScrubIt DNS
-67.138.54.120	
-207.225.209.77
-   * DNS Advantage：
-156.154.70.1
-156.154.71.1
-   * GTEI DNS (now Verizon)
-4.2.2.1
-4.2.2.2
 
-4.2.2.3
-4.2.2.4
+*Securly 184.169.143.224 184.169.161.155
 
-4.2.2.5
-4.2.2.6
+Comodo Secure DNS 8.26.56.26 8.20.247.20
+
+DNS Advantage 156.154.70.1 156.154.71.1
+
+Norton DNS 198.153.192.1 198.153.194.1
+
+ScrubIT 67.138.54.100 207.225.209.66 67.138.54.120 207.225.209.77
+
+OpenNIC 74.207.247.4 64.0.55.201
+
+Public-Root 199.5.157.131 208.71.35.137
+
+SmartViper 208.76.50.50 208.76.51.51
+
+GTEI DNS (now Verizon) 4.2.2.1 4.2.2.2 4.2.2.3 4.2.2.4 4.2.2.5 4.2.2.6
 
 此页信息来自于Chrome吧友@[http://www.baidu.com/p/MicrosoftVista?from=tieba MicrosoftVista]
