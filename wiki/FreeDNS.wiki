@@ -58,4 +58,4 @@
    * 4.2.2.5
    * 4.2.2.6
 -----------------------
-喜欢就猛击一下吧→<g:plusone size="medium"></g:plusone>
+喜欢就猛击一下<g:plusone size="medium"></g:plusone>
