@@ -13,7 +13,7 @@ Goagent For Android     ( 未ROOT也可使用 只限于浏览网页)
 
 [https://lh4.googleusercontent.com/-3IKR1jy57n4/UGqYGzB_9rI/AAAAAAAAAL8/ghM8_UDjiQk/s595/6d9bd6a5jw1dxgw183hdnj.jpg]
 
-4 导入 GAEProxy CA(证书)[http://pan.baidu.com/share/link?shareid=25153&uk=18653279 证书下载] 到 Android 系统
+4 导入 GAEProxy CA(证书) [http://code.google.com/p/smartladder/downloads/detail?name=cacerts.bks&can=2&q=#makechanges 安卓2.X证书下载] [http://code.google.com/p/smartladder/downloads/detail?name=CA.crt&can=2&q=#makechanges 安卓4.0+证书下载] 到 Android 系统
 
 通用步骤
 
@@ -27,7 +27,7 @@ Goagent For Android     ( 未ROOT也可使用 只限于浏览网页)
 
 3. 重启手机后生效
 
-4.0 及以上系统
+4.0 及以上系统 
 
 1. 下载 原始根证书 置于 SD 卡根目录
 
