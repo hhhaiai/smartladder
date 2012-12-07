@@ -2,9 +2,16 @@
 哇，您真要捐助我们啊
 
 本人和本站致力于计算机科学技术的研究和教学, 不以盈利为目的, 与各捐助者之间不构成购买或雇佣关系.
+
 任何人不得将本站项目用于商业用途.
+
 本捐助计划之款项将完全用于本站和本站的各衍生项目正常运作所需之硬件或软件服务.
+
 本人和本站承诺不主动向任何组织和个人透露捐助者的姓名、电话号码、地址、电邮地址或任何可以辨别个人身份的信息.
+
 本捐助计划使用支付宝（中国）网络技术有限公司提供的"收款主页"服务. 如果该公司或其员工出于任何原因泄露捐助者的个人信息, 本人和本站对此不负任何责任.
+
 本捐助计划的账目接受捐助者监督, 并将不定期对外公布.
-捐助链接  [https://img.alipay.com/sys/personalprod/style/mc/btn-index.png https://me.alipay.com/unsymmetry]
+
+[https://img.alipay.com/sys/personalprod/style/mc/btn-index.png] 
+捐助链接  https://me.alipay.com/unsymmetry
