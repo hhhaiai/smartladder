@@ -1,10 +1,11 @@
-#UPDATE:12-12-05
+#UPDATE:12-12-07
 
 127.0.0.1	localhost
-#Powered By SmartHosts
+#Powered By ipv6-hosts
 
 # ChromeTieba Present
 # Weibo @unsymmetry
+
 
 #Android & Google Services START
 127.0.0.1	localhost
@@ -160,7 +161,7 @@
 74.125.31.190	t4.gstatic.com
 74.125.31.190	t5.gstatic.com
 74.125.31.190	t6.gstatic.com
-74.125.31.190	www.gstatic.com
+
 
 74.125.31.190	lh1.ggpht.com
 74.125.31.190	lh2.ggpht.com
@@ -276,7 +277,7 @@
 98.139.197.254	farm6.static.flickr.com
 98.139.102.46	farm7.static.flickr.com
 98.136.43.76	geo.yahoo.com
-68.142.250.161	l.yimg.com
+
 96.6.93.227	s.yimg.com
 98.137.88.88	d.yimg.com
 68.142.196.57	c5.ah.yahoo.com
