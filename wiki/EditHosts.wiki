@@ -19,10 +19,12 @@ Linux/Mac OS X   /etc/hosts
 建议使用DNS 8.8.8.8/8.8.4.4   (By Google Public DNS) 114.114.114.114/114.114.115.115  (By 114DNS)
 
 
+----
+*Windows系统出现的问题：*
 
-Windows系统出现的问题：
+*提示：没有权限*
 
-*提示：没有权限 解决方法*
+*解决方法:*
 
 1.找到Hosts文件（ipv6用户请下载把盘内ipv6hosts），将Hosts文件复制到桌面。 （Windows系统Hosts文件路径为：C:\WINDOWS\system32\drivers\etc\hosts）
 
