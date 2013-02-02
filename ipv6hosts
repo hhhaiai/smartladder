@@ -5,8 +5,6 @@
 #Powered By SmartHosts
 
 # ChromeTieba Present
-# Love Jiani -  http://lovejiani.duapp.com/
-
 
 #Google Services START
 ##Google.com Google.com
@@ -31,7 +29,7 @@
 #2404:6800:8005::69 ipv6.google.co.jp #ipv6.google.com
 #2404:6800:8005::63 ipv6.l.google.com
 
-##Google.com.hk 谷歌香港
+##Google.com.hk 鹿脠赂猫脧茫赂脹
 2404:6800:8005::6a www.google.com.hk #www.l.google.com
 2404:6800:8005::5b picasaweb.google.com.hk #picasaweb.l.google.com
 2404:6800:8005::63 desktop.google.com.hk #desktop.l.google.com
@@ -39,7 +37,7 @@
 2404:6800:8005::69 google.com.hk
 2404:6800:8005::67 www.googlechinawebmaster.com
 
-##Google.cn 谷歌中国（启用此地址无法正常使用谷歌音乐）
+##Google.cn 鹿脠赂猫脰脨鹿煤拢篓脝么脫脙麓脣碌脴脰路脦脼路篓脮媒鲁拢脢鹿脫脙鹿脠赂猫脪么脌脰拢漏
 #2404:6800:8005::a0 www.google.cn
 2404:6800:8005::a0 g.cn
 2404:6800:8005::a0 google.cn
@@ -53,14 +51,14 @@
 2404:6800:8005::a0 www.265.com #265.com
 2404:6800:8005::a0 265.com
 
-##Google.com.tw Google 台湾
+##Google.com.tw Google 脤篓脥氓
 2404:6800:8005::5e www.google.com.tw #www-cctld.l.google.com
 2404:6800:8005::88 picasaweb.google.com.tw #picasaweb.l.google.com
 
-##Google.co.jp Google 日本
+##Google.co.jp Google 脠脮卤戮
 2404:6800:8005::5e www.google.co.jp #www-cctld.l.google.com
 
-##其他
+##脝盲脣没
 2404:6800:8005::5e www.google.ae #www-cctld.l.google.com
 2404:6800:8005::5e www.google.com.ar #www-cctld.l.google.com
 2404:6800:8005::5e www.google.at #www-cctld.l.google.com
@@ -69,7 +67,7 @@
 2404:6800:8005::5e www.google.com.br #www-cctld.l.google.com
 2404:6800:8005::5e www.google.ca #www-cctld.l.google.com
 2404:6800:8005::5e www.google.ch #www-cctld.l.google.com
-###2404:6800:8005::a0 www.google.cn #中国（已死）
+###2404:6800:8005::a0 www.google.cn #脰脨鹿煤拢篓脪脩脣脌拢漏
 2404:6800:8005::5e www.google.fi #www-cctld.l.google.com
 2404:6800:8005::5e www.google.fr #www-cctld.l.google.com
 2404:6800:8005::5e www.google.de #www-cctld.l.google.com
@@ -100,8 +98,8 @@
 2404:6800:8005::5e www.google.com.vn #www-cctld.l.google.com
 2404:6800:8005::5e www.google.co.za #www-cctld.l.google.com
 
-#Web 网页
-2404:6800:8005::67 www.google.com #www.l.google.com #主/登录域名，GTalk 客户端用户需注释此条，参见 Issue 11
+#Web 脥酶脪鲁
+2404:6800:8005::67 www.google.com #www.l.google.com #脰梅/碌脟脗录脫貌脙没拢卢GTalk 驴脥禄搂露脣脫脙禄搂脨猫脳垄脢脥麓脣脤玫拢卢虏脦录没 Issue 11
 2404:6800:8005::66 encrypted.google.com #www3.l.google.com
 2404:6800:8005::93 www.l.google.com
 ###2404:6800:8005::62 www0.l.google.com
@@ -133,13 +131,13 @@
 2404:6800:8005::c1 mobile.google.com #mobile.l.google.com
 2404:6800:8005::63 mobile.google.com.hk #www.google.com
 
-#Google Apps 企业应用套件
+#Google Apps 脝贸脪碌脫娄脫脙脤脳录镁
 2404:6800:8005::71 apps.google.com #www3.l.google.com
 2404:6800:8005::79 ghs.google.com #ghs.l.google.com
-2404:6800:8005::79 ghs46.google.com #ghs46.l.google.com #GHS 双栈入口！
+2404:6800:8005::79 ghs46.google.com #ghs46.l.google.com #GHS 脣芦脮禄脠毛驴脷拢隆
 2404:6800:8005::79 ghs.l.google.com
 2404:6800:8005::79 ghs46.l.google.com
-#2404:6800:8005::79 ghs.l.google.com #可以添加你 GApps 域名的博客地址 / GSites 地址到这里
+#2404:6800:8005::79 ghs.l.google.com #驴脡脪脭脤铆录脫脛茫 GApps 脫貌脙没碌脛虏漏驴脥碌脴脰路 / GSites 碌脴脰路碌陆脮芒脌茂
 
 #Mashups/App Engine GAE
 2404:6800:8005::68 googlemashups.com
@@ -162,21 +160,21 @@
 2404:6800:8005::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com #appspot.l.google.com
 2404:6800:8005::8d evolutionofweb.appspot.com #appspot.l.google.com
 2404:6800:8005::8d yt-debates.appspot.com #appspot.l.google.com
-2404:6800:8005::8d *.appspot.com #appspot.l.google.com #可以添加自己的 gae 应用
+2404:6800:8005::8d *.appspot.com #appspot.l.google.com #驴脡脪脭脤铆录脫脳脭录潞碌脛 gae 脫娄脫脙
 
-#Answers/Guru/WenDa 问答社区（国际版已停止运营）
+#Answers/Guru/WenDa 脦脢麓冒脡莽脟酶拢篓鹿煤录脢掳忙脪脩脥拢脰鹿脭脣脫陋拢漏
 2404:6800:8005::71 answers.google.com #www3.l.google.com
 ###2404:6800:8005::62 guru.google.com
 2404:6800:8005::69 guru.google.co.th #www2.l.google.com
 2404:6800:8005::66 wenda.google.com.hk #www3.l.google.com
 
-#Blog 博客搜索
+#Blog 虏漏驴脥脣脩脣梅
 2404:6800:8005::93 blogsearch.google.com #www2.l.google.com
 2404:6800:8005::93 blogsearch.google.com.hk #www2.l.google.com
 2404:6800:8005::6a blogsearch.google.com.tw #www2.l.google.com
 2404:6800:8005::a0 blogsearch.google.cn #www.google.cn
 
-#Blogger 博客服务
+#Blogger 虏漏驴脥路镁脦帽
 2404:6800:8005::bf www.blogger.com #blogger.l.google.com
 2404:6800:8005::bf blogger.com
 2404:6800:8005::bf buttons.blogger.com #blogger.l.google.com
@@ -202,7 +200,7 @@
 2404:6800:8005::bf img2.blogblog.com #blogger.l.google.com
 2404:6800:8005::79 www.textcube.com #ghs.l.google.com
 
-#Blogspot 博客服务
+#Blogspot 虏漏驴脥路镁脦帽
 2404:6800:8005::bf www.blogspot.com #blogger.l.google.com
 2404:6800:8005::bf blogger.l.google.com
 2404:6800:8005::bf blogspot.com
@@ -213,7 +211,7 @@
 2404:6800:8005::64 3.bp.blogspot.com #bloggerphotos.l.google.com
 2404:6800:8005::8a 4.bp.blogspot.com #bloggerphotos.l.google.com
 2404:6800:8005::84 bloggertemplatespreview.blogspot.com #blogspot.l.google.com
-#Google 官方博客群
+#Google 鹿脵路陆虏漏驴脥脠潞
 2404:6800:8005::84 adwordsapi.blogspot.com #blogspot.l.google.com
 2404:6800:8005::84 adsense-zhs.blogspot.com #blogspot.l.google.com
 2404:6800:8005::84 android-developers.blogspot.com #blogspot.l.google.com
@@ -251,10 +249,10 @@
 2404:6800:8005::84 igoogledeveloper.blogspot.com #blogspot.l.google.com
 2404:6800:8005::84 webmproject.blogspot.com #blogspot.l.google.com
 2404:6800:8005::84 youtube-global.blogspot.com #blogspot.l.google.com
-2404:6800:8005::84 *.blogspot.com #blogspot.l.google.com #可以添加你自己的博客地址到这里
+2404:6800:8005::84 *.blogspot.com #blogspot.l.google.com #驴脡脪脭脤铆录脫脛茫脳脭录潞碌脛虏漏驴脥碌脴脰路碌陆脮芒脌茂
 2404:6800:8005::84 blogspot.l.google.com
 
-#Books 图书
+#Books 脥录脢茅
 2404:6800:8005::64 books.google.com #www3.l.google.com
 2404:6800:8005::8b books.google.com.hk #www3.l.google.com
 2404:6800:8005::a0 books.google.cn #www.google.cn
@@ -282,15 +280,15 @@
 2404:6800:8005::64 bks10.books.google.com.hk #books.google.com
 2404:6800:8005::8b buzz.google.com #www3.l.google.com
 
-#Calendar 日历
+#Calendar 脠脮脌煤
 2404:6800:8005::66 calendar.google.com #www3.l.google.com
 
-#Checkout 买家
+#Checkout 脗貌录脪
 2404:6800:8005::73 checkout.google.com #checkout.l.google.com
 2404:6800:8005::73 checkout.l.google.com
 2404:6800:8005::64 wallet.google.com #www3.l.google.com
 
-#Chrome 谷歌浏览器
+#Chrome 鹿脠赂猫盲炉脌脌脝梅
 2404:6800:8005::8a chrome.google.com #www3.l.google.com
 2404:6800:8005::66 browsersync.google.com #browsersync.l.google.com
 2404:6800:8005::66 browsersync.l.google.com
@@ -300,7 +298,7 @@
 2404:6800:8005::68 toolbarqueries.l.google.com
 2404:6800:8005::79 chrome.angrybirds.com #ghs.l.google.com
 
-#Chromium Chromium 项目
+#Chromium Chromium 脧卯脛驴
 2404:6800:8005::8b chromium.org
 2404:6800:8005::79 www.chromium.org #ghs.l.google.com
 2404:6800:8005::79 dev.chromium.org #ghs.l.google.com
@@ -308,11 +306,11 @@
 #2404:6800:8005::62 build.chromium.org #planet.chromium.org
 2404:6800:8005::79 codereview.chromium.org #ghs.l.google.com
 
-#Chromium OS Chromium 操作系统
+#Chromium OS Chromium 虏脵脳梅脧碌脥鲁
 2404:6800:8005::79 goto.ext.google.com #ghs.l.google.com
 2404:6800:8005::8d welcome-cros.appspot.com #appspot.l.google.com
 
-#Code 代码
+#Code 麓煤脗毛
 2404:6800:8005::66 code.google.com #code.l.google.com
 2404:6800:8005::8a code.l.google.com
 2404:6800:8005::52 *.googlecode.com #googlecode.l.google.com
@@ -326,15 +324,15 @@
 2404:6800:8005::52 www.googlesource.com #googlecode.l.google.com
 2404:6800:8005::52 android.googlesource.com #googlecode.l.google.com
 
-#Desktop 桌面
+#Desktop 脳脌脙忙
 2404:6800:8005::68 desktop.google.com #desktop.l.google.com
 2404:6800:8005::68 desktop.l.google.com
 
-#Directory 网页目录
+#Directory 脥酶脪鲁脛驴脗录
 2404:6800:8005::8a directory.google.com #www3.l.google.com
 2404:6800:8005::64 dir.google.com #www3.l.google.com
 
-#Docs 文档
+#Docs 脦脛碌碌
 2404:6800:8005::8b docs.google.com
 2404:6800:8005::66 drive.google.com
 2404:6800:8005::64 docs0.google.com
@@ -381,7 +379,7 @@
 2404:6800:8005::bd 14.drive.google.com
 2404:6800:8005::bd 15.drive.google.com
 2404:6800:8005::bd 16.drive.google.com
-2404:6800:8005::bd *.docs.google.com #browserchannel-docs.l.google.com #按需要同时打开的文档个数自行添加
+2404:6800:8005::bd *.docs.google.com #browserchannel-docs.l.google.com #掳麓脨猫脪陋脥卢脢卤麓貌驴陋碌脛脦脛碌碌赂枚脢媒脳脭脨脨脤铆录脫
 2404:6800:8005::bd *.drive.google.com #browserchannel-docs.l.google.com
 2404:6800:8005::bd browserchannel-docs.l.google.com
 2404:6800:8005::8b spreadsheet.google.com #spreadsheets.l.google.com
@@ -404,39 +402,39 @@
 2404:6800:8005::8b writely-china.l.google.com
 2404:6800:8005::74 upload.docs.google.com #large-uploads.l.google.com
 
-#Download 下载
+#Download 脧脗脭脴
 2404:6800:8005::5d dl.google.com #dl.l.google.com
 2404:6800:8005::be dl.l.google.com
 2404:6800:8005::5d dl-ssl.google.com #dl-ssl.l.google.com
 
-#Google Earth 地球
+#Google Earth 碌脴脟貌
 2404:6800:8005::71 earth.google.com #www3.l.google.com
 2404:6800:8005::8b auth.keyhole.com #www3.l.google.com
 2404:6800:8005::66 geoauth.google.com #www3.l.google.com
 
-#Finance 财经
+#Finance 虏脝戮颅
 2404:6800:8005::64 finance.google.com #www3.l.google.com
 
-#Fusion RSS 聚合指南
+#Fusion RSS 戮脹潞脧脰赂脛脧
 2404:6800:8005::6a fusion.google.com #www2.l.google.com
 
-#Gmail 邮箱
+#Gmail 脫脢脧盲
 2404:6800:8005::12 mail.google.com #googlemail.l.google.com
 2404:6800:8005::11 googlemail.l.google.com
-2404:6800:8005::bd chatenabled.mail.google.com #b.googlemail.l.google.com #Gmail 中 Gtalk 聊天服务
-2404:6800:8005::bd filetransferenabled.mail.google.com #b.googlemail.l.google.com #可能会造成 GTalk 客户端异常
+2404:6800:8005::bd chatenabled.mail.google.com #b.googlemail.l.google.com #Gmail 脰脨 Gtalk 脕脛脤矛路镁脦帽
+2404:6800:8005::bd filetransferenabled.mail.google.com #b.googlemail.l.google.com #驴脡脛脺禄谩脭矛鲁脡 GTalk 驴脥禄搂露脣脪矛鲁拢
 2404:6800:8005::bd b.googlemail.l.google.com
-###2404:6800:8005::62 talk.gmail.com #Gmail中Gtalk聊天服务
+###2404:6800:8005::62 talk.gmail.com #Gmail脰脨Gtalk脕脛脤矛路镁脦帽
 2404:6800:8005::64 gmail.google.com #www3.l.google.com
 2404:6800:8005::13 www.gmail.com #googlemail.l.google.com
 2404:6800:8005::12 gmail.com
 2404:6800:8005::12 m.gmail.com #googlemail.l.google.com
 2404:6800:8005::13 m.googlemail.com #googlemail.l.google.com
-2607:f8b0:400e:c00::6d pop.gmail.com #gmail-pop.l.google.com #Foxmail 等客户端不支持 ipv6 连接，参阅 Issue 33
+2607:f8b0:400e:c00::6d pop.gmail.com #gmail-pop.l.google.com #Foxmail 碌脠驴脥禄搂露脣虏禄脰搂鲁脰 ipv6 脕卢陆脫拢卢虏脦脭脛 Issue 33
 2607:f8b0:400e:c00::6d gmail-pop.l.google.com
 2607:f8b0:400e:c00::10 pop.googlemail.com #googlemail-pop.l.google.com
 2607:f8b0:400e:c00::10 googlemail-pop.l.google.com
-2607:f8b0:400e:c00::6d smtp.gmail.com #gmail-smtp-msa.l.google.com #Foxmail 暂不支持
+2607:f8b0:400e:c00::6d smtp.gmail.com #gmail-smtp-msa.l.google.com #Foxmail 脭脻虏禄脰搂鲁脰
 2607:f8b0:400e:c00::6d gmail-smtp-msa.l.google.com
 2404:6800:8005::62 smtp1.google.com
 ###2404:6800:8005::62 smtp2.google.com
@@ -448,12 +446,12 @@
 2404:6800:8005::62 gmr-smtp-in.l.google.com
 2607:f8b0:400e:c00::10 smtp.googlemail.com #googlemail-smtp.l.google.com
 2607:f8b0:400e:c00::10 googlemail-smtp.l.google.com
-2607:f8b0:400e:c03::6d imap.gmail.com #gmail-imap.l.google.com #Foxmail 暂不支持
+2607:f8b0:400e:c03::6d imap.gmail.com #gmail-imap.l.google.com #Foxmail 脭脻虏禄脰搂鲁脰
 2607:f8b0:400e:c03::6d gmail-imap.l.google.com
 2607:f8b0:400e:c01::10 imap.googlemail.com #googlemail-imap.l.google.com
 2607:f8b0:400e:c01::10 googlemail-imap.l.google.com
 
-#Group 论坛
+#Group 脗脹脤鲁
 2404:6800:8005::71 groups.google.com #groups.l.google.com
 ###2401:3800:c001::68 groups.google.cn
 2404:6800:8005::71 groups.google.com.hk #groups.l.google.com
@@ -463,10 +461,10 @@
 2404:6800:8005::89 blob-s-docs.googlegroups.com #googlegroups.l.google.com
 2404:6800:8005::89 *.googlegroups.com #googlegroups.l.google.com
 
-#Health 健康
+#Health 陆隆驴碌
 2404:6800:8005::65 health.google.com #www3.l.google.com
 
-#Images 图片
+#Images 脥录脝卢
 2404:6800:8005::64 images.google.com #images.l.google.com
 2404:6800:8005::64 images.google.com.hk #images.l.google.com
 2404:6800:8005::64 images.l.google.com
@@ -478,10 +476,10 @@
 ###2404:6800:8005::62 tbn5.google.com
 ###2404:6800:8005::62 tbn6.google.com
 
-#Knol 在线百科全书
+#Knol 脭脷脧脽掳脵驴脝脠芦脢茅
 2404:6800:8005::71 knol.google.com #www3.l.google.com
 
-#Labs 实验室
+#Labs 脢碌脩茅脢脪
 2404:6800:8005::64 labs.google.com #www3.l.google.com
 2404:6800:8005::65 labs.google.cn #www3.l.google.com
 2404:6800:8005::8d www.googlelabs.com #appspot.l.google.com
@@ -509,10 +507,10 @@
 2404:6800:8005::8d swiffy.googlelabs.com #appspot.l.google.com
 2404:6800:8005::8d tables.googlelabs.com #appspot.l.google.com
 
-#Google Mars 火星地图
+#Google Mars 禄冒脨脟碌脴脥录
 2404:6800:8005::8b mars.google.com #www3.l.google.com
 
-#Maps 地图
+#Maps 碌脴脥录
 2404:6800:8005::8b maps.google.com #maps.l.google.com
 2404:6800:8005::8b maps.google.com.hk #maps.l.google.com
 2404:6800:8005::66 maps.google.com.tw #maps.l.google.com
@@ -573,7 +571,7 @@
 2404:6800:8005::a0 maps.gstatic.cn #www.gstatic.cn
 2404:6800:8005::64 mobilemaps.clients.google.com #clients.l.google.com
 
-#Music Beta by Google 云音乐服务
+#Music Beta by Google 脭脝脪么脌脰路镁脦帽
 2404:6800:8005::8b music.google.com #www3.l.google.com
 2404:6800:8005::75 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2404:6800:8003::74 music-streaming.l.google.com
@@ -581,7 +579,7 @@
 2404:6800:8005::75 uploadsj.clients.google.com #large-uploads.l.google.com
 2404:6800:8005::74 large-uploads.l.google.com
 
-#News 资讯
+#News 脳脢脩露
 2404:6800:8005::71 news.google.com #news.l.google.com
 2404:6800:8005::5e news.google.com.hk #news-cctld.l.google.com
 2404:6800:8005::5e news.google.com.tw #news-cctld.l.google.com
@@ -593,7 +591,7 @@
 ###2404:6800:8005::62 nt4.ggpht.com
 ###2404:6800:8005::62 nt5.ggpht.com
 
-#Orkut 网络社区
+#Orkut 脥酶脗莽脡莽脟酶
 2404:6800:8005::57 www.orkut.com #orkut-fe.l.google.com
 2404:6800:8005::56 orkut-fe.l.google.com
 2404:6800:8005::56 www.orkut.gmodules.com #orkut-opensocial.l.google.com
@@ -621,13 +619,13 @@
 2404:6800:8005::79 blog.orkut.com #ghs.l.google.com
 2404:6800:8005::79 en.blog.orkut.com #ghs.l.google.com
 
-#Pack 软件精选
+#Pack 脠铆录镁戮芦脩隆
 2404:6800:8005::67 pack.google.com #www2.l.google.com
 2404:6800:8005::66 cache.pack.google.com #redirector.c.youtube.com
 2404:6800:4005:6::6 cache.l.google.com
 2404:6800:8005::67 pack.google.cn #www2.l.google.com
 
-#Photo/Picasa 照片/网络相册
+#Photo/Picasa 脮脮脝卢/脥酶脗莽脧脿虏谩
 2404:6800:8005::5b photos.google.com #picasaweb.l.google.com
 2404:6800:8005::5b picasaweb.l.google.com
 2404:6800:8005::93 picasa.google.com #www2.l.google.com
@@ -644,20 +642,20 @@
 2404:6800:8005::71 lh6.google.com #lh2.l.google.com
 2404:6800:8005::66 lh2.l.google.com
 
-#Profiles 个人主页
+#Profiles 赂枚脠脣脰梅脪鲁
 2404:6800:8005::66 profiles.google.com #plus.l.google.com
 2404:6800:8005::64 plusone.google.com #plus.l.google.com
 2404:6800:8005::8b plus.google.com
-###2404:6800:8005::8a plus.google.com.hk # URL 重定向
+###2404:6800:8005::8a plus.google.com.hk # URL 脰脴露篓脧貌
 2404:6800:8005::64 plus.url.google.com #www3.l.google.com
-#2404:6800:8005::8a plus.url.google.com.hk #实际上不存在的域名
+#2404:6800:8005::8a plus.url.google.com.hk #脢碌录脢脡脧虏禄麓忙脭脷碌脛脫貌脙没
 2404:6800:8005::71 developers.google.com #www3.l.google.com
 
-#Reader 阅读器
+#Reader 脭脛露脕脝梅
 2404:6800:8005::93 reader.google.com #www2.l.google.com
 
-#SafeBrowing 安全检测服务
-2404:6800:8005::5d sb.google.com #sb.l.google.com #安全浏览检测 API
+#SafeBrowing 掳虏脠芦录矛虏芒路镁脦帽
+2404:6800:8005::5d sb.google.com #sb.l.google.com #掳虏脠芦盲炉脌脌录矛虏芒 API
 2404:6800:8005::be sb.l.google.com
 2404:6800:8005::5b sb-ssl.google.com #sb-ssl.l.google.com
 2404:6800:8005::5b sb-ssl.l.google.com
@@ -666,28 +664,28 @@
 2404:6800:8005::71 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 2404:6800:8005::65 safebrowsing.cache.l.google.com
 
-#Sandbox 服务沙盒
+#Sandbox 路镁脦帽脡鲁潞脨
 2404:6800:8005::51 sandbox.google.com #sandbox.l.google.com
 
-#Scholar 学术搜索
+#Scholar 脩搂脢玫脣脩脣梅
 2404:6800:8005::63 scholar.google.com
 2404:6800:8005::63 scholar.google.com.hk
 2404:6800:8005::63 scholar.google.com.tw
 2404:6800:8005::63 scholar.l.google.com
 2404:6800:8005::a0 scholar.google.cn
 
-#Sites 协作平台
+#Sites 脨颅脳梅脝陆脤篓
 2404:6800:8005::8b sites.google.com #www3.l.google.com
 2404:6800:8005::71 gsamplemaps.googlepages.com #www3.l.google.com
 
-#SketchUp 3D 建模工具
+#SketchUp 3D 陆篓脛拢鹿陇戮脽
 2404:6800:8005::66 sketchup.google.com
 2404:6800:8005::66 sketchup.l.google.com
 
-#Google Store Google 商店（里面有很多谷歌自己的东西出售，像谷歌T恤、茶杯、小玩意等等）
+#Google Store Google 脡脤碌锚拢篓脌茂脙忙脫脨潞脺露脿鹿脠赂猫脳脭录潞碌脛露芦脦梅鲁枚脢脹拢卢脧帽鹿脠赂猫T脨么隆垄虏猫卤颅隆垄脨隆脥忙脪芒碌脠碌脠拢漏
 #2404:6800:8005::62 www.googlestore.com
 
-#Google Talk/Chat 聊天
+#Google Talk/Chat 脕脛脤矛
 #2404:6800:8005::7d talk.google.com
 #2404:6800:8005::7d talk.l.google.com
 ###2404:6800:8005::62 default.talk.google.com
@@ -697,22 +695,22 @@
 2404:6800:8005::bc mtalk.google.com #mobile-gtalk.l.google.com
 2404:6800:8005::bc mobile-gtalk.l.google.com
 
-#Tools 工具
+#Tools 鹿陇戮脽
 2404:6800:8003::65 tools.google.com #tools.l.google.com
 2404:6800:8003::65 toolbar.google.com #tools.l.google.com
 2404:6800:8005::8b toolbar.google.com.hk #tools.l.google.com
 2404:6800:8003::65 tools.l.google.com
 
-#Translate 翻译
+#Translate 路颅脪毛
 2404:6800:8005::8b translate.google.com #www3.l.google.com
 2404:6800:8005::8b translate.google.com.hk #www3.l.google.com
 2404:6800:8005::8b translate.google.com.tw #www3.l.google.com
 2404:6800:8005::a0 translate.google.cn #www.google.cn
 
-#Trends 趋势
+#Trends 脟梅脢脝
 2404:6800:8005::67 trends.google.com #www2.l.google.com
 
-#Video 视频
+#Video 脢脫脝碌
 2404:6800:8005::65 video.google.com #video.l.google.com
 2404:6800:8005::8b video.google.com.hk #video.l.google.com
 2404:6800:8005::8a video.google.com.tw #video.l.google.com
@@ -1767,7 +1765,7 @@
 2404:6800:8005::a0 2.gvt0.cn #www.gvt0.cn
 2404:6800:8005::a0 3.gvt0.cn #www.gvt0.cn
 
-#Wave 波浪
+#Wave 虏篓脌脣
 2404:6800:8005::76 wave.google.com #www4.l.google.com
 ###2404:6800:8005::76 wave0.google.com
 2404:6800:8005::76 wave1.google.com #www4.l.google.com
@@ -1777,7 +1775,7 @@
 2404:6800:8005::7b wifi.google.com
 2404:6800:8005::7b wifi.l.google.com
 
-#iGoogle Modules iGoogle 小工具
+#iGoogle Modules iGoogle 脨隆鹿陇戮脽
 2404:6800:8005::63 gmodules.com
 2404:6800:8005::84 www.gmodules.com #googlehosted.l.googleusercontent.com
 2404:6800:8005::84 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
@@ -1802,7 +1800,7 @@
 2404:6800:8005::69 partnerpage.google.com #www2.l.google.com
 2404:6800:8005::84 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 
-#GStatic Google 静态文件存储
+#GStatic Google 戮虏脤卢脦脛录镁麓忙麓垄
 
 2404:6800:8005::78 csi.gstatic.com
 2404:6800:8005::78 maps.gstatic.com
@@ -1825,7 +1823,7 @@
 2404:6800:8005::71 mt7.gstatic.com
 2404:6800:8005::a0 www.gstatic.cn
 
-#Google APIs 开发接口服务
+#Google APIs 驴陋路垄陆脫驴脷路镁脦帽
 2404:6800:8005::8b apis.google.com #plus.l.google.com
 2404:6800:8005::64 chart.apis.google.com #clients.l.google.com
 2404:6800:8005::5f www.googleapis.com #googleapis.l.google.com
@@ -2391,7 +2389,7 @@
 2404:6800:4005:2::19 r20.hkg05s03.c.bigcache.googleapis.com
 2404:6800:4005:3::19 r20.hkg05s04.c.bigcache.googleapis.com
 
-#Google Hosted 托管服务
+#Google Hosted 脥脨鹿脺路镁脦帽
 2404:6800:8005::84 commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
 2404:6800:8005::84 googlehosted.l.googleusercontent.com
 2404:6800:8005::84 bucket.commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
@@ -2408,7 +2406,7 @@
 2404:6800:8005::84 base4.googlehosted.com #googlehosted.l.googleusercontent.com
 2404:6800:8005::84 base5.googlehosted.com #googlehosted.l.googleusercontent.com
 
-#GoogleUserContent 用户自定义的Google服务
+#GoogleUserContent 脫脙禄搂脳脭露篓脪氓碌脛Google路镁脦帽
 2404:6800:8005::84 www.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:8005::84 androidmarket.googleusercontent.com
 2404:6800:8005::84 blogger.googleusercontent.com
@@ -2615,15 +2613,15 @@
 2404:6800:8005::84 40-wave-opensocial.googleusercontent.com
 2404:6800:8005::84 *-wave-opensocial.googleusercontent.com
 
-##Google其他服务
+##Google脝盲脣没路镁脦帽
 
 #YouTube
-# 如遇连接错误或过慢，请尝试全文替换数据中心前缀：
-# 香港 2404:6800:4005:
-# 台北 2404:6800:4008:
-# 新加坡 2404:6800:4003:
-# 金奈 2404:6800:4007:
-# 洛杉矶 2001:4860:4007:
+# 脠莽脫枚脕卢陆脫麓铆脦贸禄貌鹿媒脗媒拢卢脟毛鲁垄脢脭脠芦脦脛脤忙禄禄脢媒戮脻脰脨脨脛脟掳脳潞拢潞
+# 脧茫赂脹 2404:6800:4005:
+# 脤篓卤卤 2404:6800:4008:
+# 脨脗录脫脝脗 2404:6800:4003:
+# 陆冒脛脦 2404:6800:4007:
+# 脗氓脡录铆露 2001:4860:4007:
 2404:6800:8005::be youtube.com
 2404:6800:8005::5d www.youtube.com #youtube-ui.l.google.com
 2404:6800:8005::88 au.youtube.com #youtube-ui.l.google.com
@@ -3669,7 +3667,7 @@
 2404:6800:4005::19 r20.maa03s08.c.youtube.com
 2404:6800:4005:1::19 r20.maa03s09.c.youtube.com
 
-#AdWords/AdSense 广告服务
+#AdWords/AdSense 鹿茫赂忙路镁脦帽
 ###2404:6800:8005::62 www.googlesyndication.com
 2404:6800:8005::9a www.googleadservices.com #pagead.l.doubleclick.net
 2404:6800:8005::9a pagead2.googlesyndication.com #pagead.l.doubleclick.net
@@ -4092,7 +4090,7 @@
 2404:6800:8005::95 *.fr.doubleclick.net #dart.l.doubleclick.net
 2404:6800:8005::95 *.jp.doubleclick.net #dart.l.doubleclick.net
 
-#Analytics 分析
+#Analytics 路脰脦枚
 2404:6800:8005::71 www.google-analytics.com #www-google-analytics.l.google.com
 2404:6800:8005::61 ssl.google-analytics.com #ssl-google-analytics.l.google.com
 2404:6800:8005::61 *.google-analytics.com
@@ -4101,7 +4099,7 @@
 2404:6800:8005::61 ssl-google-analytics.l.google.com
 2404:6800:8005::63 analytics.google.com #www2.l.google.com
 
-#Android Google 移动操作系统
+#Android Google 脪脝露炉虏脵脳梅脧碌脥鲁
 2404:6800:8005::64 www.android.com #www3.l.google.com
 2404:6800:8005::69 android.com
 2404:6800:8005::64 developer.android.com #www3.l.google.com
@@ -4505,26 +4503,26 @@
 2404:6800:8005::8b www.feedburner.com #www3.l.google.com
 2404:6800:8005::76 feeds.feedburner.com #www4.l.google.com
 2404:6800:8005::85 feeds2.feedburner.com #www4.l.google.com
-2404:6800:8005::76 feedproxy.google.com #www4.l.google.com #Feed 跳转代理
+2404:6800:8005::76 feedproxy.google.com #www4.l.google.com #Feed 脤酶脳陋麓煤脌铆
 
-#The Go Programming Language Go 编程语言
+#The Go Programming Language Go 卤脿鲁脤脫茂脩脭
 2404:6800:8005::8d golang.org
 2404:6800:8005::8d www.golang.org #golang.org
 2404:6800:8005::79 blog.golang.org #ghs.l.google.com
 2404:6800:8005::8d play.golang.org
 2404:6800:8005::8d tour.golang.org
 
-#Goo.gl Google短网址服务
+#Goo.gl Google露脤脥酶脰路路镁脦帽
 2404:6800:8005::64 goo.gl
 2404:6800:8005::66 g.co
 
-#html5rocks HTML5 推广专题网站
+#html5rocks HTML5 脥脝鹿茫脳篓脤芒脥酶脮戮
 2404:6800:8005::79 www.html5rocks.com #ghs.l.google.com
 2404:6800:8005::79 slides.html5rocks.com #ghs.l.google.com
 2404:6800:8005::79 playground.html5rocks.com #ghs.l.google.com
 2404:6800:8005::79 studio.html5rocks.com #ghs.l.google.com
 
-#Google.org Google 公益
+#Google.org Google 鹿芦脪忙
 2404:6800:8005::79 blog.google.org #ghs.l.google.com
 
 #Panoramio
@@ -4532,37 +4530,37 @@
 2404:6800:8005::80 static.panoramio.com #storage.l.googleusercontent.com
 2404:6800:8005::79 blog.panoramio.com #ghs.l.google.com
 
-#Recaptcha 验证码服务
+#Recaptcha 脩茅脰陇脗毛路镁脦帽
 2404:6800:8005::63 www.recaptcha.net #www.l.google.com
 2404:6800:8005::93 api.recaptcha.net #www.l.google.com
 2404:6800:8005::67 api-secure.recaptcha.net #www.l.google.com
 2404:6800:8005::67 mailhide.recaptcha.net #www.l.google.com
 
-#Google Wave Federation Protocol · GWave 协议开源计划
+#Google Wave Federation Protocol 隆陇 GWave 脨颅脪茅驴陋脭麓录脝禄庐
 2404:6800:8005::79 www.waveprotocol.org #ghs.l.google.com
 
-#The WebM Project WebM 开放多媒体项目
+#The WebM Project WebM 驴陋路脜露脿脙陆脤氓脧卯脛驴
 2404:6800:8005::93 webmproject.org
 2404:6800:8005::64 www.webmproject.org #www3.l.google.com
 2404:6800:8005::79 lists.webmproject.org #ghs.l.google.com
 2404:6800:8005::79 blog.webmproject.org #ghs.l.google.com
 2404:6800:8005::79 www.webm-ccl.org #ghs.l.google.com
 
-#Chrome 相关专题网站
+#Chrome 脧脿鹿脴脳篓脤芒脥酶脮戮
 2404:6800:8005::71 www.chromercise.com #www3.l.google.com
 2404:6800:8005::79 www.chromeexperiments.com #ghs.l.google.com
 2404:6800:8005::79 www.20thingsilearned.com #ghs.l.google.com
 
-#IPv6 专题
+#IPv6 脳篓脤芒
 2404:6800:8005::63 ipv6test.google.com #ipv6test.l.google.com
 2404:6800:8005::63 ipv4.google.com #ipv4.l.google.com
-#2404:6800:8005::63 ??????.ds.ipv6test.google.com #四级域名为随机六位数字
+#2404:6800:8005::63 ??????.ds.ipv6test.google.com #脣脛录露脫貌脙没脦陋脣忙禄煤脕霉脦禄脢媒脳脰
 #2404:6800:8005::63 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
 2404:6800:8005::63 ds.ipv6test.l.google.com
 2001:4860:b007::97 chrome.googleechotest.com #chromeecho.l.google.com
 2001:4860:b007::97 chromeecho.l.google.com
 
-#其他专题站
+#脝盲脣没脳篓脤芒脮戮
 2404:6800:8005::8b www.data-vocabulary.org #www3.l.google.com
 2404:6800:8005::8a www.googleinsidesearch.com #www3.l.google.com
 2404:6800:8005::79 www.teachparentstech.org #ghs.l.google.com
@@ -4578,7 +4576,7 @@
 2404:6800:8005::79 try.dartlang.org #ghs.l.google.com
 2404:6800:8005::79 news.dartlang.org #ghs.l.google.com
 
-###其他主流服务
+###脝盲脣没脰梅脕梅路镁脦帽
 #bit.ly / j.mp
 #2001:418:e801::10:1 bit.ly
 #2001:418:e801::11:1 bit.ly
@@ -4601,7 +4599,7 @@
 #2001:418:e801::12:7 api.bitly.com
 #2001:418:e801::15:7 api.bitly.com
 
-#Facebook 脸谱网
+#Facebook 脕鲁脝脳脥酶
 2a03:2880:10:cf01:face:b00c::: facebook.com
 2a03:2880:10:8f02:face:b00c:0:25 www.facebook.com
 2a03:2880:10:8f02:face:b00c:0:26 api-read.facebook.com
@@ -4622,16 +4620,16 @@
 2620:0:1cfe:face:b00c::6 apps.v6.facebook.com
 2620:0:1cfe:face:b00c::3 333.channel.facebook.com #?
 #2620:0:1cfe:face:b00c::3 333.ctest.facebook.com
-#如需正常使用页面底部聊天功能，请通过 pac 代理 *.channel.facebook.com
+#脠莽脨猫脮媒鲁拢脢鹿脫脙脪鲁脙忙碌脳虏驴脕脛脤矛鹿娄脛脺拢卢脟毛脥篓鹿媒 pac 麓煤脌铆 *.channel.facebook.com
 2a03:2880:10:cf01:face:b00c:0:4 developers.facebook.com
 #2620:0:1cfe:face:b00c::3 developers.v6.facebook.com
 #2620:0:1cfe:face:b00c::3 external.ak.fbcdn.net
 2620:0:1cfe:face:b00c::3 error.12.channel.facebook.com #?
 2620:0:1cfe:face:b00c::3 pixel.v6.facebook.com #www.v6.facebook.com
 2620:0:1cfe:face:b00c::3 vupload.facebook.com #?
-#2620:0:1cfe:face:b00c::3 static.ak.fbcdn.net #网站资源（图像、脚本等）新机制尚未部署至 ipv6
-#2620:0:1cfe:face:b00c::4 s-static.ak.facebook.com #https 连接用网站资源，证书有问题
-2620:0:1cfe:face:b00c::7 m.v6.facebook.com #移动版
+#2620:0:1cfe:face:b00c::3 static.ak.fbcdn.net #脥酶脮戮脳脢脭麓拢篓脥录脧帽隆垄陆脜卤戮碌脠拢漏脨脗禄煤脰脝脡脨脦麓虏驴脢冒脰脕 ipv6
+#2620:0:1cfe:face:b00c::4 s-static.ak.facebook.com #https 脕卢陆脫脫脙脥酶脮戮脳脢脭麓拢卢脰陇脢茅脫脨脦脢脤芒
+2620:0:1cfe:face:b00c::7 m.v6.facebook.com #脪脝露炉掳忙
 2610:d0:face::9 www.lisp6.facebook.com
 2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
 
@@ -4691,30 +4689,30 @@
 2607:f128:47::1:1 www.plurk.com
 2607:f128:47::1:1 ipv6.plurk.com
 
-#Blizzard Entertainment 暴雪娱乐
+#Blizzard Entertainment 卤漏脩漏脫茅脌脰
 2001:1890:e000:c01:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
-###其他IPv6网站
-##CN 中国大陆
-#GuAo.hk 谷奥
+###脝盲脣没IPv6脥酶脮戮
+##CN 脰脨鹿煤麓贸脗陆
+#GuAo.hk 鹿脠掳脗
 2001:470:a803::250 www.guao.hk
 2001:470:a803::250 guao.hk
 2600:3c00::f03c:91ff:fe93:67f2 img.gd
 
-#kenengba.com 可能吧
+#kenengba.com 驴脡脛脺掳脡
 2001:470:18:5f5::2 www.kenengba.com
 2001:470:18:5f5::2 m.kenengba.com
 
-#Shooter 射手网
+#Shooter 脡盲脢脰脥酶
 2607:f740:90::ea8 shooter.cn
 2607:f740:90::ea8 www.shooter.cn
 2607:f740:90::ea8 edu.shooter.cn
-#2607:f740:90::ea8 file.shooter.cn #有证书警告，但可以正常下载
+#2607:f740:90::ea8 file.shooter.cn #脫脨脰陇脢茅戮炉赂忙拢卢碌芦驴脡脪脭脮媒鲁拢脧脗脭脴
 
-#Yegle 一阁
+#Yegle 脪禄赂贸
 2001:470:0:19b::b869:805d yegle.net
 
-##US 美国
+##US 脙脌鹿煤
 #Mozilla
 2620:101:8008:5::2:1 www.mozilla.org
 2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
@@ -4736,7 +4734,7 @@
 2620:101:8008:5::2:8 www.firefox.com #firefox.com
 2620:101:8008:5::2:8 firefox.com
 
-#Microsoft 微软
+#Microsoft 脦垄脠铆
 2a01:111:2004:3::13 www.microsoft.com
 2600:140e:1:1::3cfe:83a3 i.microsoft.com
 2600:140e:1::3cfe:83c8 i2.microsoft.com
@@ -4744,7 +4742,7 @@
 2600:140e:1::3cfe:83ca i4.microsoft.com
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
 
-#WikiMedia 维基媒体
+#WikiMedia 脦卢禄霉脙陆脤氓
 2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
 2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
 #2620:0:860:2:230:48ff:fe5a:eb1e download.wikimedia.org #Wikimedia Downloads
@@ -4779,7 +4777,7 @@
 2620:0:861:ed1a::7 wikiversity-lb.wikimedia.org #wikiversity-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::8 mediawiki-lb.wikimedia.org #mediawiki-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::c m.wikimedia.org
-#WikiBooks 维基教科书
+#WikiBooks 脦卢禄霉陆脤驴脝脢茅
 2620:0:860:ed1a::4 wikibooks.org
 2620:0:861:ed1a::4 www.wikibooks.org #wikibooks-lb.wikimedia.org
 2620:0:861:ed1a::4 aa.wikibooks.org
@@ -4903,7 +4901,7 @@
 2620:0:861:ed1a::4 zh.wikibooks.org
 2620:0:861:ed1a::4 zh-min-nan.wikibooks.org
 2620:0:861:ed1a::4 zu.wikibooks.org
-#WikiNews 维基新闻
+#WikiNews 脦卢禄霉脨脗脦脜
 2620:0:860:ed1a::6 wikinews.org
 2620:0:861:ed1a::6 www.wikinews.org #wikinews-lb.wikimedia.org
 2620:0:861:ed1a::6 ar.wikinews.org
@@ -4939,7 +4937,7 @@
 2620:0:861:ed1a::6 tr.wikinews.org
 2620:0:861:ed1a::6 uk.wikinews.org
 2620:0:861:ed1a::6 zh.wikinews.org
-#WikiPedia 维基百科
+#WikiPedia 脦卢禄霉掳脵驴脝
 2620:0:860:ed1a::1 wikipedia.org
 2620:0:861:ed1a::1 www.wikipedia.org #wikipedia-lb.wikimedia.org
 2620:0:861:ed1a::1 aa.wikipedia.org
@@ -5206,11 +5204,11 @@
 2620:0:861:ed1a::1 zh-min-nan.wikipedia.org
 2620:0:861:ed1a::1 zh-yue.wikipedia.org
 2620:0:861:ed1a::1 zu.wikipedia.org
-#WikiPedia Mobile 维基百科移动版
+#WikiPedia Mobile 脦卢禄霉掳脵驴脝脪脝露炉掳忙
 2620:0:861:ed1a::c m.wikipedia.org #m.wikimedia.org
 2620:0:861:ed1a::c en.m.wikipedia.org
 2620:0:861:ed1a::c zh.m.wikipedia.org
-#WikiQuote 维基语录
+#WikiQuote 脦卢禄霉脫茂脗录
 2620:0:860:ed1a::3 wikiquote.org
 2620:0:861:ed1a::3 www.wikiquote.org #wikiquote-lb.wikimedia.org
 2620:0:861:ed1a::3 af.wikiquote.org
@@ -5301,7 +5299,7 @@
 2620:0:861:ed1a::3 za.wikiquote.org
 2620:0:861:ed1a::3 zh.wikiquote.org
 2620:0:861:ed1a::3 zh-min-nan.wikiquote.org
-#WikiSource 维基文库
+#WikiSource 脦卢禄霉脦脛驴芒
 2620:0:860:ed1a::5 wikisource.org
 2620:0:861:ed1a::5 www.wikisource.org #wikisource-lb.wikimedia.org
 2620:0:861:ed1a::5 ang.wikisource.org
@@ -5364,7 +5362,7 @@
 2620:0:861:ed1a::5 yi.wikisource.org
 2620:0:861:ed1a::5 zh.wikisource.org
 2620:0:861:ed1a::5 zh-min-nan.wikisource.org
-#Wikiversity 维基学院
+#Wikiversity 脦卢禄霉脩搂脭潞
 2620:0:860:ed1a::7 wikiversity.org
 2620:0:861:ed1a::7 www.wikiversity.org #wikiversity-lb.wikimedia.org
 2620:0:861:ed1a::7 ar.wikiversity.org
@@ -5381,7 +5379,7 @@
 2620:0:861:ed1a::7 pt.wikiversity.org
 2620:0:861:ed1a::7 ru.wikiversity.org
 2620:0:861:ed1a::7 sv.wikiversity.org
-#Wiktionary 维基词典
+#Wiktionary 脦卢禄霉麓脢碌盲
 2620:0:860:ed1a::2 wiktionary.org
 2620:0:861:ed1a::2 www.wiktionary.org #wiktionary-lb.wikimedia.org
 2620:0:861:ed1a::2 aa.wiktionary.org
@@ -5585,7 +5583,7 @@
 2001:470:1d:28::6 static.uncyc.org
 2001:470:1d:28::6 ansaikuropedia.org
 
-##AT 奥地利
+##AT 掳脗碌脴脌没
 #Tor Project
 2001:858:10f:f::1001 torproject.org
 2001:858:10f:f::1001 www.torproject.org
@@ -5595,13 +5593,13 @@
 2620:0:6b0:b:1a1a:0:26e5:480e atlas.torproject.org
 2620:0:6b0:b:1a1a:0:26e5:480b svn.torproject.org
 
-##AU 澳大利亚
+##AU 掳脛麓贸脌没脩脟
 #APNIC
 2001:dc0:2001:11::211 www.apnic.net
 2001:dc0:2001::14 wq.apnic.net
 2001:dc0:2001:11::205 submit.apnic.net #nori.apnic.net
 
-#DE 德国
+#DE 碌脗鹿煤
 2002:c247:6b96::1 thepiratebay.se
 2002:c247:6b96::1 www.thepiratebay.se
 2002:c247:6b97::1 static.thepiratebay.se
@@ -5609,47 +5607,47 @@
 2002:c247:6b96::1 www.thepiratebay.org
 2002:c247:6b97::1 static.thepiratebay.org
 
-##FR 法国
+##FR 路篓鹿煤
 2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
 2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
 
-##JP 日本
-#JAIST 北陸先端科学技術大学院大学
+##JP 脠脮卤戮
+#JAIST 卤卤锚聭脧脠露脣驴脝脩搂录录脨g麓贸脩搂脭潞麓贸脩搂
 2001:200:141:feed::feed ftp.jaist.ac.jp
 2001:200:141:feed::feed jaist.dl.sourceforge.net
 
-##NL 荷兰
+##NL 潞脡脌录
 #Ubuntu Archive
 2001:7b8:3:37::21:2 ipv6.torrent.ubuntu.com #IPv6 Tracker
 2001:7b8:60b:2:213:154:234:36 nl.archive.ubuntu.com #ubuntuarchive.bit.nl #Archive Mirror NL
 
-#PA 巴拿马
+#PA 掳脥脛脙脗铆
 2a02:29b8:1925::2 bitsnoop.com
 
-#SE 瑞典
+#SE 脠冒碌盲
 2a00:1a28:1151:0:20c:29ff:feeb:294 torrage.com
 2a00:1a28:1151:4::117:443 zoink.it
 
-#其他托管在 Google 的服务
-#BlogSpot 上的其他常用博客 #blogspot.l.google.com
+#脝盲脣没脥脨鹿脺脭脷 Google 碌脛路镁脦帽
+#BlogSpot 脡脧碌脛脝盲脣没鲁拢脫脙虏漏驴脥 #blogspot.l.google.com
 2404:6800:8005::84 googlesystem.blogspot.com #Google Operating System
 2404:6800:8005::84 ipv6-or-no-ipv6.blogspot.com #IPv6 Related Stuff
-2404:6800:8005::84 gfwrev.blogspot.com #GFW 技术评论
-2404:6800:8005::84 kamonka.blogspot.com #NHK 纪录片精选
+2404:6800:8005::84 gfwrev.blogspot.com #GFW 录录脢玫脝脌脗脹
+2404:6800:8005::84 kamonka.blogspot.com #NHK 录脥脗录脝卢戮芦脩隆
 
-#Google Code 上的其他常用项目 #googlecode.l.google.com
+#Google Code 脡脧碌脛脝盲脣没鲁拢脫脙脧卯脛驴 #googlecode.l.google.com
 2404:6800:8005::52 ipv6-hosts.googlecode.com
 2404:6800:8005::52 kibbles.googlecode.com
 
-# GAE 上的常用应用 #appspot.l.google.com
+# GAE 脡脧碌脛鲁拢脫脙脫娄脫脙 #appspot.l.google.com
 2404:6800:8005::8d gsdview.appspot.com
 2404:6800:8005::8d wave-api.appspot.com #Google Wave API
 2404:6800:8005::8d wave-skynet.appspot.com #SkyNet
 2404:6800:8005::8d mytracks.appspot.com #My Tracks for Android
-2404:6800:8005::8d autoproxy2pac.appspot.com #自动代理配置脚本生成器
+2404:6800:8005::8d autoproxy2pac.appspot.com #脳脭露炉麓煤脌铆脜盲脰脙陆脜卤戮脡煤鲁脡脝梅
 2404:6800:8005::8d fakegdict.appspot.com #Fake Google Dictionary
 
-# 托管在 Google 上的其他常用域名 #ghs.l.google.com
+# 脥脨鹿脺脭脷 Google 脡脧碌脛脝盲脣没鲁拢脫脙脫貌脙没 #ghs.l.google.com
 2404:6800:8005::79 www.akb48plus.com
 2404:6800:8005::79 wdyl.com
 2404:6800:8005::79 www.wdyl.com
@@ -5659,9 +5657,9 @@
 2404:6800:8005::79 blog.xmarks.com
 2404:6800:8005::79 www.miraisearch.jp
 
-### IPv6/IPv4 转换代理
-# 以下地址均非各网站官方地址，属于 LITNET-NAT64 网段提供转换代理服务（技术细节）。
-# DNS64 服务器：
+### IPv6/IPv4 脳陋禄禄麓煤脌铆
+# 脪脭脧脗碌脴脰路戮霉路脟赂梅脥酶脮戮鹿脵路陆碌脴脰路拢卢脢么脫脷 LITNET-NAT64 脥酶露脦脤谩鹿漏脳陋禄禄麓煤脌铆路镁脦帽拢篓录录脢玫脧赂陆脷拢漏隆拢
+# DNS64 路镁脦帽脝梅拢潞
 2001:778::37 dns64.litnet.lt
 
 #Amazon S3
@@ -5701,7 +5699,7 @@
 2001:778:0:ffff:64:0:45ab:e319 hphotos-snc7.fbcdn.net #hphotos-04-snc7.fbcdn.net
 
 #Google Plus
-2001:778:0:ffff:64:0:1faa:a606 plus.url.google.com.hk #非官方，有错误请汇报
+2001:778:0:ffff:64:0:1faa:a606 plus.url.google.com.hk #路脟鹿脵路陆拢卢脫脨麓铆脦贸脟毛禄茫卤篓
 
 #Twitter
 2001:778:0:ffff:64:0:c73b:940a twitter.com
@@ -5762,7 +5760,7 @@
 2001:778:0:ffff:64:0:5f64:4f90 si5.twimg.com #e3826.g.akamaiedge.net
 2001:778:0:ffff:64:0:b8a9:4f21 widgets.twimg.com #orig-10012.twitter.cotcdn.net
 
-#WikiMedia 维基媒体
+#WikiMedia 脦卢禄霉脙陆脤氓
 2620:0:861:ed1a::a bits-geo.wikimedia.org #bits-lb.eqiad.wikimedia.org
 2001:778:0:ffff:64:0:d050:98b9 dataset2.wikimedia.org
 2001:778:0:ffff:64:0:d050:98b9 download.wikimedia.org #dumps.wikimedia.org
@@ -5779,7 +5777,7 @@
 2001:778:0:ffff:64:0:d050:9893 svn.wikimedia.org #formey.wikimedia.org
 2001:778:0:ffff:64:0:d050:9896 blog.wikimedia.org #marmontel.wikimedia.org
 2001:778:0:ffff:64:0:5bc6:aee9 geoiplookup.wikimedia.org #geoiplookup-lb.esams.wikimedia.org
-#WikiPedia 维基百科
+#WikiPedia 脦卢禄霉掳脵驴脝
 2001:778:0:ffff:64:0:d050:98b9 download.wikipedia.org
 2001:778:0:ffff:64:0:d050:9885 mail.wikipedia.org
 
@@ -5791,11 +5789,11 @@
 2001:778:0:ffff:64:0:4a78:bc7d ja.doraemon.wikia.com
 2001:778:0:ffff:64:0:4a78:bc7d zh-cn.doraemon.wikia.com
 2001:778:0:ffff:64:0:4a78:bc7d zh-tw.doraemon.wikia.com
-2001:778:0:ffff:64:0:4a78:bc7d evchk.wikia.com #香港網絡大典
+2001:778:0:ffff:64:0:4a78:bc7d evchk.wikia.com #脧茫赂脹戮W陆j麓贸碌盲
 2001:778:0:ffff:64:0:4a78:bc7d uncyclopedia.wikia.com
 2001:778:0:ffff:64:0:4a78:bc7d cn.uncyclopedia.wikia.com
 
-###IPv6 代理翻墙
+###IPv6 麓煤脌铆路颅脟陆
 
-#IPv6 HTTP 代理：gfw-proxy.co.cc:3128
+#IPv6 HTTP 麓煤脌铆拢潞gfw-proxy.co.cc:3128
 2607:fcd0:1337:4b::2 gfw-proxy.co.cc
