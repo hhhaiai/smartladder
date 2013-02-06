@@ -5,7 +5,7 @@
 * [https://lh4.googleusercontent.com/-cu5oHkQUEbY/UQ4WlPs2kKI/AAAAAAAAAdQ/uzvEClKhYt8/s30/ff.png] Smartfox  一键穿墙浏览器 V1.4  基于 火狐Firefox 18.0.1 
  * [http://vdisk.weibo.com/s/oU7st 下载]  （作者：[http://www.baidu.com/p/__%E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C%E5%86%AB?from=pp __一方通行冫]）
 
-* [http://kirito.duapp.com/ https://shinichipro.googlecode.com/files/30px.png] WoW Browser  一键穿墙浏览器 V1.5.3 基于 Chrome 21.0.1180.89 <font color="red">测试版V2.0 beta 基于 Chromium 26</font>
+* [http://kirito.duapp.com/ https://shinichipro.googlecode.com/files/30px.png] WoW Browser  一键穿墙浏览器 V1.5.3 基于 Chrome 21.0.1180.89 <font color="grey">测试版V2.0 beta 基于 Chromium 26</font>
  * [http://kirito.duapp.com/ 下载地址列表] （作者: [https://github.com/ehs2013 新一]）
 
 
