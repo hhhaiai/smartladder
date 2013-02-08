@@ -1,5 +1,5 @@
 #labels Browser
-[https://shinichipro.googlecode.com/files/goagentlogo.png]基于Python
+
 
 * [https://lh4.googleusercontent.com/-aKtE-WNB6YA/UQ4WlIvU5dI/AAAAAAAAAdM/769C0fT1CQY/s30/cr.png] Cirno  V1.2  基于 谷歌Chrome 24.0.1312.57 m
  * [https://docs.google.com/folder/d/0B40y99PguHeYcW0wa09NSjloa0E/edit?usp=sharing 谷歌Drive下载]   [https://skydrive.live.com/redir?resid=25133E62F9A30554!155&authkey=!AEBoCUhvzQGOqfM SkyDrive下载]（作者：[http://www.baidu.com/p/__%E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C%E5%86%AB?from=pp __一方通行冫]）
@@ -23,3 +23,5 @@
 
 * [https://lh4.googleusercontent.com/-cu5oHkQUEbY/UQ4WlPs2kKI/AAAAAAAAAdQ/uzvEClKhYt8/s30/ff.png] 火狐Goagent 基于 火狐Firefox
  * [http://hi.baidu.com/comeforu/item/1da0583b6c92a1ab633affc9 下载] 作者：[http://www.baidu.com/p/%E4%B8%BA%E4%BD%A0%E8%80%8C%E6%9D%A5?from=tieba 为你而来]
+
+以上程序的代理模块都基于[https://shinichipro.googlecode.com/files/goagentlogo.png]Python
