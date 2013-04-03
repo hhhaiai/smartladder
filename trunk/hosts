@@ -1,4 +1,4 @@
-#UPDATE:13-1-31
+#UPDATE:Apr-3-2013
 
 #freeandopen
 127.0.0.1	localhost
@@ -10,12 +10,21 @@
 #Xunlei Accelerator
 123.129.242.213 hub5idx.shub.sandai.net
 58.254.134.233 hub5pr.sandai.net
-
+199.245.60.254 player.opengg.me
 209.141.52.233 www.gtabbs.com
+207.97.227.239 github.com 
+207.97.227.252 nodeload.github.com 
+207.97.227.243 raw.github.com 
+204.232.175.78 documentcloud.github.com
+65.54.224.254 skyweb.skyprod.akadns.net
+204.154.94.81 www.evernote.com
+#127.0.0.1 vod.xunlei.com
+216.218.207.140 www.feedly.com
+198.101.155.5 www.userscripts.org
+0.0.0.0 pro.letv.com
+0.0.0.0 stat.letv.com
+0.0.0.0 letv.allyes.com
 
-#UPDATE:21:01 2013/1/28
-
-127.0.0.1	localhost
 #SmartHosts START
 
 #Google Services START
