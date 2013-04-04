@@ -15,9 +15,6 @@
 * [https://lh6.googleusercontent.com/-nq_dJ1Q2Ojk/UQ-L_FCBFxI/AAAAAAAAAfs/4R1tt2yMsdQ/s30/023b5bb5c9ea15ce7458c033b7003af33a87b251.png] Chroment 基于!ChromiumV26
  * [http://pan.baidu.com/share/link?shareid=257762&uk=2165710427#dir/path=%2FChroment 下载] （作者： [http://www.baidu.com/p/8qwe24657913?from=tieba 8qwe24657913]）
 
-* [https://lh4.googleusercontent.com/-cu5oHkQUEbY/UQ4WlPs2kKI/AAAAAAAAAdQ/uzvEClKhYt8/s30/ff.png] wwqgtxx-goagent 基于 火狐Firefox
- * [http://code.google.com/p/wwqgtxx-goagent/downloads/list 下载] 作者：wwqgtxx
-
 * [https://lh4.googleusercontent.com/-cu5oHkQUEbY/UQ4WlPs2kKI/AAAAAAAAAdQ/uzvEClKhYt8/s30/ff.png] 火狐Goagent 基于 火狐Firefox
  * [http://hi.baidu.com/comeforu/item/1da0583b6c92a1ab633affc9 下载] 作者：[http://www.baidu.com/p/%E4%B8%BA%E4%BD%A0%E8%80%8C%E6%9D%A5?from=tieba 为你而来]
 
