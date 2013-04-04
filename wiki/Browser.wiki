@@ -2,7 +2,7 @@
 * [https://lh4.googleusercontent.com/-aKtE-WNB6YA/UQ4WlIvU5dI/AAAAAAAAAdM/769C0fT1CQY/s30/cr.png] Cirno  V1.5 基于 谷歌Chrome 25.0.1364.160 m
  * [http://vdisk.weibo.com/s/tb4nN/1362920273 下载]  由Chrome实验室开发
 
-* [https://shinichipro.googlecode.com/files/30px.png] WoW Browser  一键穿墙浏览器 V1.7.3 (20130331) 基于 Chrome 浏览器
+* [https://shinichipro.googlecode.com/files/30px.png] WoW Browser  一键穿墙浏览器 V1.7.4 (20130404) 基于 Chrome 浏览器
  * [http://kirito.duapp.com/ 下载地址列表] 由Chrome实验室开发
 
 * [https://lh4.googleusercontent.com/-cu5oHkQUEbY/UQ4WlPs2kKI/AAAAAAAAAdQ/uzvEClKhYt8/s30/ff.png] Smartfox  一键穿墙浏览器 V1.4  基于 火狐Firefox 18.0.1 
