@@ -1,6 +1,6 @@
 #labels Browser
-* [https://lh4.googleusercontent.com/-aKtE-WNB6YA/UQ4WlIvU5dI/AAAAAAAAAdM/769C0fT1CQY/s30/cr.png] Cirno V1.6 Final 基于 谷歌Chrome 25.0.1364.160 m
- * [http://vdisk.weibo.com/s/vEIFH 下载]  由Chrome实验室开发
+* [https://lh4.googleusercontent.com/-aKtE-WNB6YA/UQ4WlIvU5dI/AAAAAAAAAdM/769C0fT1CQY/s30/cr.png] Cirno V1.7 基于 谷歌 26.0.1410.64  m
+ * [http://pan.baidu.com/share/link?shareid=402057&uk=808444026 下载]  由Chrome实验室开发
 
 * [https://shinichipro.googlecode.com/files/30px.png] WoW Browser V1.7.5 (20130414) 基于 Chrome 26.0.1410.64 m
  * [http://kirito.duapp.com/ 下载地址列表] 由Chrome实验室开发
