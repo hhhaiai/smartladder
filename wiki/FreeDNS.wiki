@@ -17,6 +17,11 @@
    * 208.67.222.222
    * 208.67.220.220
 
+===[中華電信DNS]^推荐^=== 
+   *168.95.1.1
+   *168.95.192.1
+   *168.95.192.2
+
 ===[http://pcsupport.about.com/gi/o.htm?zi=1/XJ&zTi=1&sdn=pcsupport&cdn=compute&tm=10&f=11&su=p284.13.342.ip_p504.6.342.ip_&tt=2&bt=0&bts=0&zu=http%3A//home.securly.com/setup Securly]=== 
    * 184.169.143.224 
    * 184.169.161.155
