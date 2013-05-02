@@ -18,3 +18,10 @@
   * _XiDxxxAssassin
   * 其实小Cxxxx我现榨的
   * 平壤xxx菲猫(
+
+
+如果您想为此项目贡献自己的appid
+
+可以编辑邮件[donate]+自己的appid  发送至 fantuqiang@gmail.com
+
+非常感谢！
