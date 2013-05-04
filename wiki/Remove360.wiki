@@ -10,4 +10,5 @@
 推荐杀软
  * [http://www.avast.com/zh-cn/index Avast!] 
  * [http://www.mcafee.com/cn/ Mcafee]
+ * [http://www.eset.com.cn/ nod32]
  * [http://www.ijinshan.com 金山毒霸]
