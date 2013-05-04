@@ -12,4 +12,5 @@
  * [http://www.avast.com/zh-cn/index Avast!] 
  * [http://www.mcafee.com/cn/ Mcafee]
  * [http://www.eset.com.cn/ nod32]
+ * [http://www.avira.com/zh-cn/for-home avira]
  * [http://www.ijinshan.com 金山毒霸]
