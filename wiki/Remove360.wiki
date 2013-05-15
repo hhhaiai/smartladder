@@ -13,4 +13,5 @@
  * [http://www.mcafee.com/cn/ Mcafee]
  * [http://www.eset.com.cn/ nod32]
  * [http://www.avira.com/zh-cn/for-home avira]
- * [http://www.ijinshan.com 金山毒霸]
+
+远离那些名字里带中文或者数字的杀毒软件（nod32除外）。。。
