@@ -1,7 +1,7 @@
-#UPDATE:12-12-11
+#UPDATE:May-24-2013
 
 #freeandopen
-127.0.0.1	localhost
+
 #Powered By SmartHosts
 
 # ChromeLab Present
@@ -2680,7 +2680,7 @@ fe80::1%lo0	localhost
 203.208.47.1	www.googleapis.com
 203.208.47.1	www.googlelabs.com
 203.208.46.170	www.googleusercontent.com
-203.208.47.1	www.gstatic.com
+
 203.208.47.1	www.l.google.com
 203.208.47.1	www2.l.google.com
 203.208.47.1	www3.l.google.com
@@ -2812,7 +2812,7 @@ fe80::1%lo0	localhost
 98.139.197.254 farm6.static.flickr.com
 98.139.102.46 farm7.static.flickr.com
 98.136.43.76 geo.yahoo.com
-68.142.250.161 l.yimg.com
+
 96.6.93.227 s.yimg.com
 98.137.88.88 d.yimg.com
 68.142.196.57 c5.ah.yahoo.com
