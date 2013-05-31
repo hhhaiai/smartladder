@@ -1,4 +1,4 @@
-#UPDATE:May-24-2013
+#UPDATE:May-31-2013
 
 #freeandopen
 
@@ -7,8 +7,6 @@
 # ChromeLab Present
 # Love Jiani -  http://lovejiani.duapp.com/
 
-
-#Google Services START
 
 203.208.46.200	0.docs.google.com
 203.208.46.200	0.drive.google.com
@@ -609,7 +607,7 @@
 68.142.196.57	c5.ah.yahoo.com
 124.108.120.124	sa.edit.yahoo.com
 66.163.168.247	open.login.yahoo.com
-209.191.92.114	login.yahoo.com
+124.108.97.193	login.yahoo.com
 209.191.92.115	edit.yahoo.com
 209.191.121.31	up.flickr.com
 209.191.105.102	adjax.flickr.yahoo.com
@@ -758,12 +756,13 @@
 #GitHub END
 
 #Feedly START
-173.194.38.137	feedly-beta.appspot.com
-173.194.72.121	s3.feedly.com
+173.194.79.141	feedly-beta.appspot.com
+173.194.74.121	s3.feedly.com
 #Feedly END
 
 #Others START
 38.229.72.14	www.torproject.org
+#Others END
 
 #Fuck ISP
 127.0.0.1 ss.cnnic.cn
