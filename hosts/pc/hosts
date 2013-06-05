@@ -1,4 +1,4 @@
-#UPDATE:May-31-2013
+#UPDATE:2013-6-6
 
 #freeandopen
 
@@ -749,7 +749,7 @@
 204.232.175.94	gist.github.com
 107.20.136.254	help.github.com
 207.97.227.252	nodeload.github.com
-199.27.76.130	raw.github.com
+207.97.227.243 raw.github.com 
 107.22.3.110	status.github.com
 204.232.175.78	training.github.com
 207.97.227.243	www.github.com
@@ -808,9 +808,6 @@
 58.254.134.233 hub5pr.sandai.net
 199.245.60.254 player.opengg.me
 209.141.52.233 www.gtabbs.com
-207.97.227.239 github.com 
-207.97.227.252 nodeload.github.com 
-207.97.227.243 raw.github.com 
 204.232.175.78 documentcloud.github.com
 65.54.224.254 skyweb.skyprod.akadns.net
 204.154.94.81 www.evernote.com
