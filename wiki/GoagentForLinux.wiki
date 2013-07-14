@@ -1,40 +1,7 @@
 #labels Linux下的goagnet使用方法
-下载Python版的Google App Engine SDK：
+下载goagent+
 
-地址：http://code.google.com/intl/zh-CN/appengine/downloads.html#Google_App_Engine_SDK_for_Python
 
-下载后解压出google_appengine文件夹。
-
-下载goagent稳定版
-
-地址：http://code.google.com/p/goagent/downloads/list
-
-下载后解压到google_appengine/goagent文件夹。
-
- 
-
-修改local/proxy.ini文件中的appid=你的appid，多个appid可以用|隔开。
-
-这里修改和WIN下是一样的。
-
- 
-
-接下来上传就和WIN不同了。
-
-首先进入到google_appengine目录下
-
-然后执行python appcfg.py update goagent/server/python
-
-等待上传结束就OK拉～
-
-浏览器插件没什么不同的。
-
- 
-
-还有就是linux下启动goagent
-
-先进入到goagent/local
-
-然后执行python proxy.py
+然后执行python3 proxy.py
 
 就OK啦～
