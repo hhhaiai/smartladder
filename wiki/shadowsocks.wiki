@@ -2,13 +2,22 @@
 #使用说明
 
 1：运行程序
+
  Windows:打开根目录下的shadowsocks.exe
     
 
 运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统界面一样)
 [https://lh5.googleusercontent.com/-GFkkxs3Jrd8/UfeY8hX232I/AAAAAAAAAGY/bUfS87B8GEI/w675-h435-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130730184334.png]
 
+2:设置浏览器
 
+设置浏览器代理,这一步就和使用SSH代理一样,FireFox下设置AutoProxy,Chrome下设置Proxy SwitchySharp扩展就可以了,设置代理为127.0.0.1:本地端口,默认的是127.0.0.1:1080,代理类型为socks5代理,这个一定不能弄错!
+Firefox---AutoProxy设置如下:
 [https://lh4.googleusercontent.com/-SEIBOB4paTI/UfeYNFmrxYI/AAAAAAAAAGE/AUUS0gvz_RA/w510-h482-no/shadowsocks-firefox.png]
+添加完毕之后记得设置它为默认代理。
 
+Chrome---Proxy SwitchySharp设置如下:
 [https://lh5.googleusercontent.com/-geGmkUzmQlk/UfeYNGg0rrI/AAAAAAAAAGI/aLdLx6XSDZA/w738-h619-no/shadowsocks-chrome.png]
+一切正常的话你就又在墙外了,enjoy it!
+
+本服务器采用日本东京的linode机房
