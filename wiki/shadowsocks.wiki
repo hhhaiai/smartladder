@@ -40,4 +40,4 @@ Chrome---Proxy !SwitchySharp  [http://acgfan.duapp.com/1988901288v18653279.zip c
 
 一切正常的话你就又在墙外了,enjoy it!
 
-本服务器采用日本东京的linode机房
+本服务器采用日本东京的linode机房  感谢vpnforfree.net
