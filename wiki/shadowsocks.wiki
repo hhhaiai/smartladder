@@ -14,17 +14,27 @@
 
 设置浏览器代理,这一步就和使用SSH代理一样,!FireFox下设置!AutoProxy,!Chrome下设置Proxy 
 
-!SwitchySharp扩展就可以了,设置代理为127.0.0.1:本地端口,默认的是127.0.0.1:1080,代理类型为socks5代理,这个一定不能弄错!
+!SwitchySharp扩展就可以了,设置代理为127.0.0.1:本地端口,默认的是127.0.0.1:1080,代理类型为socks5代理,这个一定不能弄错! 
 
-Firefox---!AutoProxy设置如下:
+Firefox---!AutoProxy 下载[http://acgfan.duapp.com/561930398v18653279.xpi 修改版 支持21-23]
 
-[https://lh4.googleusercontent.com/-SEIBOB4paTI/UfeYNFmrxYI/AAAAAAAAAGE/AUUS0gvz_RA/w510-h482-no/shadowsocks-firefox.png]
+设置如下:
+
+[https://lh3.googleusercontent.com/-XXERcPnBA7s/Ufecw5jFTbI/AAAAAAAAAHk/VEcCF2p7QwQ/w510-h419-no/shadowsocks-firefox.png]
+
+[https://lh6.googleusercontent.com/-kEhQHVp99b0/Ufecwz85sVI/AAAAAAAAAHo/bL5FDqjoFPU/w334-h362-no/shadowsocks-firefox2.png]
+
 
 添加完毕之后记得设置它为默认代理。
 
-Chrome---Proxy !SwitchySharp设置如下:
+Chrome---Proxy !SwitchySharp  [http://acgfan.duapp.com/1988901288v18653279.zip crx离线安装 附有备份]  [http://lovejiani.com/crx/#install 安装方法]
 
-[https://lh5.googleusercontent.com/-geGmkUzmQlk/UfeYNGg0rrI/AAAAAAAAAGI/aLdLx6XSDZA/w738-h619-no/shadowsocks-chrome.png]
+设置如下:
+
+进入扩展选项  导入/导出  从文件恢复 打开刚刚从压缩包内解压过的
+.bak文件即可
+
+[https://lh5.googleusercontent.com/-qVU3N8bHig4/UfedECx0FTI/AAAAAAAAAH4/exWzL8YGzP4/w901-h642-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130730185824.png]
 
 一切正常的话你就又在墙外了,enjoy it!
 
