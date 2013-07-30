@@ -12,9 +12,9 @@
 
 2:设置浏览器
 
-设置浏览器代理,这一步就和使用SSH代理一样,FireFox下设置AutoProxy,Chrome下设置Proxy 
+设置浏览器代理,这一步就和使用SSH代理一样,!FireFox下设置!AutoProxy,!Chrome下设置Proxy 
 
-SwitchySharp扩展就可以了,设置代理为127.0.0.1:本地端口,默认的是127.0.0.1:1080,代理类型为socks5代理,这个一定不能弄错!
+!SwitchySharp扩展就可以了,设置代理为127.0.0.1:本地端口,默认的是127.0.0.1:1080,代理类型为socks5代理,这个一定不能弄错!
 
 Firefox---!AutoProxy设置如下:
 
@@ -22,7 +22,7 @@ Firefox---!AutoProxy设置如下:
 
 添加完毕之后记得设置它为默认代理。
 
-Chrome---!Proxy SwitchySharp设置如下:
+Chrome---Proxy !SwitchySharp设置如下:
 
 [https://lh5.googleusercontent.com/-geGmkUzmQlk/UfeYNGg0rrI/AAAAAAAAAGI/aLdLx6XSDZA/w738-h619-no/shadowsocks-chrome.png]
 
