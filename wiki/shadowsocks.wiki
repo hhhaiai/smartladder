@@ -16,13 +16,13 @@
 
 SwitchySharp扩展就可以了,设置代理为127.0.0.1:本地端口,默认的是127.0.0.1:1080,代理类型为socks5代理,这个一定不能弄错!
 
-Firefox---AutoProxy设置如下:
+Firefox---!AutoProxy设置如下:
 
 [https://lh4.googleusercontent.com/-SEIBOB4paTI/UfeYNFmrxYI/AAAAAAAAAGE/AUUS0gvz_RA/w510-h482-no/shadowsocks-firefox.png]
 
 添加完毕之后记得设置它为默认代理。
 
-Chrome---Proxy SwitchySharp设置如下:
+Chrome---!Proxy SwitchySharp设置如下:
 
 [https://lh5.googleusercontent.com/-geGmkUzmQlk/UfeYNGg0rrI/AAAAAAAAAGI/aLdLx6XSDZA/w738-h619-no/shadowsocks-chrome.png]
 
