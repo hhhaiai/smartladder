@@ -1,3 +1,26 @@
+[https://kirito.duapp.com/ https://lh6.googleusercontent.com/-lBEPjV2gqEw/UZ3t3FkEl9I/AAAAAAAAA-8/D0_QBC5tbhs/w600-h227-no/fuckwall.png]
+
+
+如要查询今日剩余流量，可查看 [https://wowbrowser-xchrome.rhcloud.com/r/?ref=smartladder GoAgent+ 流量状态] <g:plusone size="medium"></g:plusone> 
+
+ * 您可以编辑邮件gae发至fantuqiang@gmail.com 
+
+即可获得一份科学上网的指南 
+
+『邮件指令』：发送相应指令到本邮件地址 
+
+例如：
+{{{
+标题：bug
+邮件内容：bug+软件无法正常运行或者报错(您的描述)+报错的程序画面截图
+}}}
+
+『wow』 :获取WoW 浏览器 体验一键穿墙        
+『hosts』:获取最新的Hosts 增快网络连接速度
+
+『dns』: 获取最新的DNS服务器 增快解析速度 
+『bug』 :反馈Bug
+
 =科学上网说明=
 
 五分钟指南~ <font color="red">新手必读</font>  ←←←
