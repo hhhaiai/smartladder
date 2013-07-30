@@ -1,13 +1,14 @@
-#summary One-sentence summary of this page.
+#labels shadowsocks使用方法
+#使用说明
 
-= Introduction =
+1：运行程序
+ Windows:打开根目录下的shadowsocks.exe
+    
 
-Add your content here.
+运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统界面一样)
+[https://lh5.googleusercontent.com/-GFkkxs3Jrd8/UfeY8hX232I/AAAAAAAAAGY/bUfS87B8GEI/w675-h435-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130730184334.png]
 
 
-= Details =
+[https://lh4.googleusercontent.com/-SEIBOB4paTI/UfeYNFmrxYI/AAAAAAAAAGE/AUUS0gvz_RA/w510-h482-no/shadowsocks-firefox.png]
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+[https://lh5.googleusercontent.com/-geGmkUzmQlk/UfeYNGg0rrI/AAAAAAAAAGI/aLdLx6XSDZA/w738-h619-no/shadowsocks-chrome.png]
