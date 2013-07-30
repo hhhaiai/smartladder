@@ -52,7 +52,7 @@ Chrome---Proxy !SwitchySharp  [http://acgfan.duapp.com/1988901288v18653279.zip c
 
 设置如下:
 
-进入扩展选项  导入/导出  从文件恢复 打开刚刚从压缩包内解压过的
+进入扩展选项  导入/导出  从文件恢复 打开Proxy !SwitchySharp压缩包内解压过的
 .bak文件即可
 
 [https://lh4.googleusercontent.com/-zGLJ6u1Sp5Q/UfefsFxsejI/AAAAAAAAAIc/z7jM-Yu8HRI/w928-h507-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130730191226.png]
