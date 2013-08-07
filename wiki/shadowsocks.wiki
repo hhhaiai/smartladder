@@ -9,24 +9,7 @@
 
  Linux & Mac OS X 请先安装[http://www.shadowsocks.org/downloads shadowsocks]
 
-按格式填写
-线路：
-
-
-日本：vpnforfree.net    IPv6：jpv6.vpnforfree.net
-
-
-美国：us.vpnforfree.net  IPv6：usv6.vpnforfree.net
-
-------------------以下相同
-端口：10091
-
-
-密码：vpnforfree
-
-
-加密方式：aes-256-cfb
-
+可以参考 https://xwall.io/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%97%E8%A1%A8/ 填写
 
 
 运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统界面一样)
@@ -63,4 +46,4 @@ Chrome---Proxy !SwitchySharp  [http://acgfan.duapp.com/1988901288v18653279.zip c
 
 一切正常的话你就又在墙外了,enjoy it!
 
-本服务器采用日本东京的linode机房  感谢vpnforfree.net
+本服务器采用日本东京的linode机房  感谢xwall
