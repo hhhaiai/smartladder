@@ -1,5 +1,5 @@
 #labels shadowsocks使用方法
-[https://lh6.googleusercontent.com/-XqbnA59jwn4/UfeikiF2o0I/AAAAAAAAAI4/Boslz07GLGI/w320-h91-no/shadowsocksx.png][http://wenkeke.duapp.com/2254604057v18653279.7z https://lh4.googleusercontent.com/-k9lqm8dyErM/UYIW2Tu-2rI/AAAAAAAAA6A/qCXjzBBQFBE/w79-h36-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130502153137.png] 
+[https://lh6.googleusercontent.com/-XqbnA59jwn4/UfeikiF2o0I/AAAAAAAAAI4/Boslz07GLGI/w320-h91-no/shadowsocksx.png][https://lh4.googleusercontent.com/-k9lqm8dyErM/UYIW2Tu-2rI/AAAAAAAAA6A/qCXjzBBQFBE/w79-h36-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130502153137.png] 
 
 #使用说明
 
@@ -9,9 +9,7 @@
 
  Linux & Mac OS X 请先安装[http://www.shadowsocks.org/downloads shadowsocks]
 
-可以参考 https://xwall.io/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%97%E8%A1%A8/ 填写
 
-激活码 https://xwall.io/%E9%82%80%E8%AF%B7%E7%A0%81/
 
 
 运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统界面一样)
@@ -47,5 +45,3 @@ Chrome---Proxy !SwitchySharp  [http://acgfan.duapp.com/1988901288v18653279.zip c
 [https://lh6.googleusercontent.com/-F9tKjViW3Sg/UfefsB1MAUI/AAAAAAAAAIY/njLkM2pNmAY/w904-h642-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130730191211.png]
 
 一切正常的话你就又在墙外了,enjoy it!
-
-本服务器采用日本东京的linode机房  感谢xwall
