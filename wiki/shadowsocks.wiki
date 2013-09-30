@@ -1,6 +1,16 @@
 #labels shadowsocks使用方法
 [https://lh6.googleusercontent.com/-XqbnA59jwn4/UfeikiF2o0I/AAAAAAAAAI4/Boslz07GLGI/w320-h91-no/shadowsocksx.png][http://pan.baidu.com/s/1yyI0Z https://lh4.googleusercontent.com/-k9lqm8dyErM/UYIW2Tu-2rI/AAAAAAAAA6A/qCXjzBBQFBE/w79-h36-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130502153137.png] 
 
+{
+"server":"49.212.203.39",
+"server_port":8080,
+"local_port":1080,
+"password":"cloudfox",
+"timeout":600,
+"method":"aes-256-cfb"
+}
+
+
 #使用说明
 
 1：运行程序
@@ -45,3 +55,6 @@ Chrome---Proxy !SwitchySharp  [http://acgfan.duapp.com/1988901288v18653279.zip c
 [https://lh6.googleusercontent.com/-F9tKjViW3Sg/UfefsB1MAUI/AAAAAAAAAIY/njLkM2pNmAY/w904-h642-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130730191211.png]
 
 一切正常的话你就又在墙外了,enjoy it!
+
+Android版 https://play.google.com/store/apps/details?id=com.github.shadowsocks   要root
+iOS版  http://apt.thebigboss.org/onepackage.php?bundleid=com.linusyang.shadowsocks  要越狱
