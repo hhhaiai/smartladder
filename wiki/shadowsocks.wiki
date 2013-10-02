@@ -24,14 +24,14 @@
 
  Windows:打开根目   录下的shadowsocks.exe
 
- Linux & Mac OS X 请先安装[http://www.shadowsocks.org/downloads shadowsocks]
+ Linux & Mac OS X   http://sourceforge.net/projects/shadowsocksgui/files/dist/
 
 
 
 
 运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统界面一样)
 
-[https://lh5.googleusercontent.com/-GFkkxs3Jrd8/UfeY8hX232I/AAAAAAAAAGY/bUfS87B8GEI/w675-h435-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130730184334.png]
+[https://lh6.googleusercontent.com/-Rase3FYOIP4/Ukwq7jBYaqI/AAAAAAAAAKU/r-OVyzZN8Xo/w467-h364-no/BaiduShurufa_2013-10-2_22-13-11.png]
 
 2:设置浏览器
 
