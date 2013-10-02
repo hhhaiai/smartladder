@@ -64,6 +64,7 @@ Chrome---Proxy !SwitchySharp  [http://acgfan.duapp.com/1988901288v18653279.zip c
 一切正常的话你就又在墙外了,enjoy it!
 
 Android版 https://play.google.com/store/apps/details?id=com.github.shadowsocks   要root
+
 iOS版  http://apt.thebigboss.org/onepackage.php?bundleid=com.linusyang.shadowsocks  要越狱
 
 赞助我 [http://lovejiani.com/blog/about/#article_nav_1 https://img.alipay.com/sys/personalprod/style/mc/btn-index.png] 
