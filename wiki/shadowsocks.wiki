@@ -22,7 +22,7 @@
 
 1：运行程序
 
- Windows:打开根目录下的shadowsocks.exe
+ Windows:打开根目   录下的shadowsocks.exe
 
  Linux & Mac OS X 请先安装[http://www.shadowsocks.org/downloads shadowsocks]
 
