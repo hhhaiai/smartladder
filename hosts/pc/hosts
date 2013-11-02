@@ -460,7 +460,7 @@
 203.208.46.200	mt3.googleapis.com
 203.208.46.200	redirector-bigcache.googleapis.com
 203.208.46.200	translate.googleapis.com
-0.0.0.0	173.194.66.95 www.googleapis.com
+173.194.66.95 www.googleapis.com
 
 203.208.46.200	autoproxy-gfwlist.googlecode.com
 203.208.46.200	chromium.googlecode.com
@@ -522,8 +522,8 @@
 203.208.46.162	listen.googlelabs.com
 203.208.46.200	m.googlemail.com
 203.208.46.200	market.android.com
-0.0.0.0	203.208.46.163 ngrams.googlelabs.com
-0.0.0.0	173.194.37.99 panoramio.com
+203.208.46.163 ngrams.googlelabs.com
+173.194.37.99 panoramio.com
 203.208.46.222	smarthosts.googlecode.com
 203.208.46.222	ssl.google-analytics.com
 173.194.76.128	static.panoramio.com
