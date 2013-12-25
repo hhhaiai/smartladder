@@ -8,7 +8,7 @@
 
   * [https://lh6.googleusercontent.com/-60esWlC4rNA/UcHq7xv4VdI/AAAAAAAABVo/xQENNeFivDk/w18-h16-no/windows.png] Windows系统 |  [https://code.google.com/p/smartladder/wiki/Remove360 使用建议]
    * [https://lh5.googleusercontent.com/-HL85xb3urF0/UcHh450dkrI/AAAAAAAABVA/B__7HSkTkco/s16-no/6d9bd6a5gw1e3jwn4j4ldj.jpg] Chrome 包内附有!SwitchySharp 扩展(.crx)及网络设置备份(.bak)     [http://pan.baidu.com/share/link?shareid=419476&uk=18653279 视频教学(推荐)] 
-   * [https://lh4.googleusercontent.com/-Y6yLdsF0bl4/UcHh4zXAE9I/AAAAAAAABU8/Vp-B2xCKw4A/s16-no/6d9bd6a5gw1e3jwn570hdj.jpg] Firefox [http://acgfan.duapp.com/561930398v18653279.xpi 修改版 支持21-23]  [http://pan.baidu.com/share/link?shareid=2464514633&uk=18653279 视频教学(推荐)]
+   * [https://lh4.googleusercontent.com/-Y6yLdsF0bl4/UcHh4zXAE9I/AAAAAAAABU8/Vp-B2xCKw4A/s16-no/6d9bd6a5gw1e3jwn570hdj.jpg] Firefox [http://pan.baidu.com/s/1o6k9VOu autoproxy下载]  [http://pan.baidu.com/share/link?shareid=2464514633&uk=18653279 视频教学(推荐)]
    * [https://lh5.googleusercontent.com/-eICj4gK66L4/UeU4AIc6rVI/AAAAAAAAAEw/P02UWpNkNWo/s16-no/opera-2.png] Opera (暂时仅Opera12)  [https://skydrive.live.com/redir?resid=25133E62F9A30554!141 方法]
 
   * [https://lh4.googleusercontent.com/-cELP-BvibGo/UcHq70FZZ2I/AAAAAAAABVc/A1Cz1RECTxc/w13-h16-no/x11.png] Linux系统 | [https://code.google.com/p/smartladder/wiki/GoagentForLinux 查看]
