@@ -30,28 +30,38 @@
 
 #使用说明
 
-1：运行程序
+1：运行程序  
 
- Windows:打开根目录下的shadowsocks.exe
+ Windows:打开根目录下的shadowsocks.exe  [https://github.com/kawaiiushio/Shadowsocks-nodejs-goagent-launcher/archive/master.zip 下载]
 
- Linux & Mac OS X   http://sourceforge.net/projects/shadowsocksgui/files/dist/
-
-
-
-
-运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统文字一样)
-
-[https://lh3.googleusercontent.com/-Dwd0L44osy0/UuRSTJow8QI/AAAAAAAAADE/HE2Mrm_WBpo/w429-h318-no/QQ%25E6%2588%25AA%25E5%259C%259620140126075948.png]
 
 按要求修改我给你的服务器配置
 
+[https://lh3.googleusercontent.com/-Dwd0L44osy0/UuRSTJow8QI/AAAAAAAAADE/HE2Mrm_WBpo/w429-h318-no/QQ%25E6%2588%25AA%25E5%259C%259620140126075948.png]
+
+
+
     "server":"127.0.0.1",   这里填写服务器的ip或者地址
+
     "server_port":8080,   这里填写服务器端口
+
     "local_port":1080,     这里填写本地端口
+
     "password":"barfoo!",    这里填写密码
+
     "timeout":600,
+
     "method":"aes-256-cfb"     这里是加密方式
 
+
+
+ Linux用户建议使用python（2.7）版的[https://github.com/clowwindy/shadowsocks/archive/master.zip shadowsocks]
+
+按照以上配置填写后
+执行python sslocal.py即可
+
+ [http://sourceforge.net/projects/shadowsocksgui/files/dist/shadowsocks-gui-0.3.1-osx-ia32.7z/download Mac用户下载]
+按照以上配置填写
 
 2:设置浏览器
 
