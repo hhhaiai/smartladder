@@ -41,8 +41,8 @@
 
 运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统文字一样)
 
-[http://ww4.sinaimg.cn/large/6d9bd6a5gw1ecwm8p1xnvj20bx08uaam.jpg]
-修改我给你的服务器配置
+[https://lh4.googleusercontent.com/E-Bj9cOMGt2sBLLgJDAXTYEOazzGzFzv28QfB-Q6sCk=w429-h318-no]
+按要求修改我给你的服务器配置
 
     "server":"127.0.0.1",   这里填写服务器的ip或者地址
     "server_port":8080,   这里填写服务器端口
