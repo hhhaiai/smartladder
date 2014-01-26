@@ -32,16 +32,25 @@
 
 1：运行程序
 
- Windows:打开根目   录下的shadowsocks.exe
+ Windows:打开根目录下的shadowsocks.exe
 
  Linux & Mac OS X   http://sourceforge.net/projects/shadowsocksgui/files/dist/
 
 
 
 
-运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统界面一样)
+运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统文字一样)
 
-[https://lh6.googleusercontent.com/-Rase3FYOIP4/Ukwq7jBYaqI/AAAAAAAAAKU/r-OVyzZN8Xo/w467-h364-no/BaiduShurufa_2013-10-2_22-13-11.png]
+[http://ww4.sinaimg.cn/large/6d9bd6a5gw1ecwm8p1xnvj20bx08uaam.jpg]
+修改我给你的服务器配置
+
+    "server":"127.0.0.1",   这里填写服务器的ip或者地址
+    "server_port":8080,   这里填写服务器端口
+    "local_port":1080,     这里填写本地端口
+    "password":"barfoo!",    这里填写密码
+    "timeout":600,
+    "method":"aes-256-cfb"     这里是加密方式
+
 
 2:设置浏览器
 
