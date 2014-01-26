@@ -41,7 +41,8 @@
 
 运行之后会打开一个窗口,如下图所示(示例为windows系统 其他系统文字一样)
 
-[https://lh4.googleusercontent.com/E-Bj9cOMGt2sBLLgJDAXTYEOazzGzFzv28QfB-Q6sCk=w429-h318-no]
+[https://lh3.googleusercontent.com/-Dwd0L44osy0/UuRSTJow8QI/AAAAAAAAADE/HE2Mrm_WBpo/w429-h318-no/QQ%25E6%2588%25AA%25E5%259C%259620140126075948.png]
+
 按要求修改我给你的服务器配置
 
     "server":"127.0.0.1",   这里填写服务器的ip或者地址
