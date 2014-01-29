@@ -54,15 +54,14 @@
 
     "method":"aes-256-cfb"     这里是加密方式 
 
-其他系统也都大同小异 按配置准确填写就ok啦
+Mac os x/ iOS/Android用户打开软件  按配置准确填写即可
 
-
- Linux用户建议使用python（2.7）版的
+Linux用户建议使用python（2.7）版的
 
 按照以上配置填写后
 执行python sslocal.py即可
 
-mac/ iOS/Android用户打开软件 按配置准确填写即可
+
 
 
 
