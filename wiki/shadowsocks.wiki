@@ -13,7 +13,8 @@
 
 
 
-详见 http://ippotsuko.com/ss
+详情请见  http://ippotsuko.com/ss
+
 
 年付制     一共85元 折合每月7元左右 *由于汇率变动  价格可能有浮动  付款完成的不用补差价
 
@@ -62,12 +63,6 @@ Linux用户建议使用python（2.7）版的
 执行python sslocal.py即可
 
 
-
-
-
-
-
-按照以上配置填写
 
 2:设置浏览器
 
