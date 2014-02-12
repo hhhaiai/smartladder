@@ -83,7 +83,7 @@ Firefox---!AutoProxy 下载[http://pan.baidu.com/s/1c05TlDY 修改版 支持21-2
 
 添加完毕之后记得设置它为默认代理。
 
-Chrome---Proxy !SwitchySharp  [https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm?hl=zh-CN Chrome商店安装]  [http://lovejiani.com/crx/#install 安装方法]  [http://fantuqiang.tk/so.bak .bak备份地址]
+Chrome---Proxy !SwitchySharp  [https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm?hl=zh-CN Chrome商店安装]  [http://lovejiani.com/crx/#install 安装方法]  [http://ippotsuko.com/so.bak .bak备份地址]
 
 设置如下:
 
