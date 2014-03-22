@@ -1,5 +1,5 @@
 #labels goagent使用方法
-[https://github.com/kawaiiushio/smartladder/archive/master.zip https://lh6.googleusercontent.com/-lBEPjV2gqEw/UZ3t3FkEl9I/AAAAAAAAA-8/D0_QBC5tbhs/w600-h227-no/fuckwall.png]
+[https://gitcafe.com/kawaiiushio/smartladder/tarball/master https://lh6.googleusercontent.com/-lBEPjV2gqEw/UZ3t3FkEl9I/AAAAAAAAA-8/D0_QBC5tbhs/w600-h227-no/fuckwall.png]
 
 
 =科学上网说明=
@@ -55,4 +55,4 @@
  * [https://github.com/goagent/goagent/tags 原版历史下载] 
  * 附：[https://skydrive.live.com/redir?resid=25133E62F9A30554!121 APPID注册方法]
  * [http://tieba.baidu.com/p/1850173327 提示证书错误点击此处]
- * [https://smartladder.googlecode.com/svn/trunk/gfwlist.txt GFWlist在线规则]
+ * [http://git.oschina.net/kawaiiushio/misc/raw/master/gfvvlist.txt GFWlist在线规则]
