@@ -9,7 +9,15 @@
 
  
 
-新春福利  购买支持本项目的shadowsocks服务 赠送VPN功能  和 日本SSH账号一枚~
+美国 旧金山服务器 sfo.yuikira.com    提供Shadowsocks & SSH & VPN(L2TP IPsec PSK)
+
+ 
+
+现支持Win/Linux（跨平台）/Mac/Android/iOS（*禁止利用本工具下载BT或其他P2P程序）
+
+ 
+
+再赠送7枚ss账号 sfo2旧金山 sfo3 sfo4 tyo2东京 ny纽约 la洛杉矶 jsv森尼韦尔  de德国  
 
 
 
