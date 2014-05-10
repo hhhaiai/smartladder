@@ -49,13 +49,15 @@
 
 按要求修改我给你的服务器配置
 
-[https://lh3.googleusercontent.com/-Dwd0L44osy0/UuRSTJow8QI/AAAAAAAAADE/HE2Mrm_WBpo/w429-h318-no/QQ%25E6%2588%25AA%25E5%259C%259620140126075948.png]
+[https://lh5.googleusercontent.com/-QlWZ1aaQpgU/U25NbtDD1YI/AAAAAAAACtM/xhI0z2SoVU0/w188-h183-no/QQ%E6%88%AA%E5%9C%9620140511000045.png]
 
 
 
     "server":"127.0.0.1",   这里填写服务器的ip或者地址
 
     "server_port":8080,   这里填写服务器端口
+
+    "local_address":"127.0.0.1",本地localhost地址一般不用改
 
     "local_port":1080,     这里填写本地端口
 
@@ -68,6 +70,24 @@
 Mac os x/ iOS/Android用户打开软件  按配置准确填写即可
 
 Linux用户建议使用python（2.7）版的
+
+如果想使用 table 之外的加密方法，要先安装 M2Crypto.
+
+Ubuntu:
+
+apt-get install python-m2crypto
+Debian:
+
+apt-get install libssl-dev swig
+pip install M2Crypto
+openSUSE:
+
+zypper in python-m2crypto
+其它系统:
+
+apt-get install openssl-dev swig
+pip install M2Crypto
+注意，在有些系统上其中一些加密方法可能不可用。
 
 按照以上配置填写后
 执行python local.py即可
@@ -105,3 +125,5 @@ Firefox---!FoxyProxy [https://addons.mozilla.org/zh-cn/firefox/addon/foxyproxy-s
 shadowsocks把本地代理socks5   127.0.0.1:1080即可
 
 一切正常的话你就又在墙外了,enjoy it!
+
+购买本服务不会使用可以gmail求助我 我会给你扣扣远程
