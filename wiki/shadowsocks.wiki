@@ -47,9 +47,7 @@
  Windows:打开根目录下的shadowsocks.exe  
 
 
-按要求修改我给你的服务器配置
-
-[https://lh5.googleusercontent.com/-QlWZ1aaQpgU/U25NbtDD1YI/AAAAAAAACtM/xhI0z2SoVU0/w188-h183-no/QQ%E6%88%AA%E5%9C%9620140511000045.png]
+按要求修改我给你的服务器配置 编辑config.json
 
 
 
