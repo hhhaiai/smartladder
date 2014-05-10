@@ -70,23 +70,17 @@ Mac os x/ iOS/Android用户打开软件  按配置准确填写即可
 Linux用户建议使用python（2.7）版的
 
 按照以上配置填写后
-执行python sslocal.py即可
+执行python local.py即可
 
 
 
 2:设置浏览器
 
-设置浏览器代理,这一步就和使用SSH代理一样,!FireFox下设置!AutoProxy,!Chrome下设置Proxy 
+设置浏览器代理,这一步就和使用SSH代理一样,!FireFox下设置!Foxyproxy,!Chrome下设置Proxy 
 
 !SwitchySharp扩展就可以了,设置代理为127.0.0.1:本地端口,默认的是127.0.0.1:1080,代理类型为socks5代理,这个一定不能弄错! 
 
-Firefox---!AutoProxy 下载[http://pan.baidu.com/s/1c05TlDY 修改版 支持21-23]
 
-设置如下:
-
-[https://lh3.googleusercontent.com/-XXERcPnBA7s/Ufecw5jFTbI/AAAAAAAAAHk/VEcCF2p7QwQ/w510-h419-no/shadowsocks-firefox.png]
-
-[https://lh6.googleusercontent.com/-kEhQHVp99b0/Ufecwz85sVI/AAAAAAAAAHo/bL5FDqjoFPU/w334-h362-no/shadowsocks-firefox2.png]
 
 
 添加完毕之后记得设置它为默认代理。
@@ -101,5 +95,13 @@ Chrome---Proxy !SwitchySharp  [https://chrome.google.com/webstore/detail/proxy-s
 [https://lh4.googleusercontent.com/-zGLJ6u1Sp5Q/UfefsFxsejI/AAAAAAAAAIc/z7jM-Yu8HRI/w928-h507-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130730191226.png]
 
 [https://lh6.googleusercontent.com/-F9tKjViW3Sg/UfefsB1MAUI/AAAAAAAAAIY/njLkM2pNmAY/w904-h642-no/QQ%25E6%2588%25AA%25E5%259B%25BE20130730191211.png]
+
+
+
+Firefox---!FoxyProxy [https://addons.mozilla.org/zh-cn/firefox/addon/foxyproxy-standard/  Firefox商店地址]
+上面两个被walled 可以点右边的[http://pan.baidu.com/s/1c0pHjqw 度娘盘] 下载完成后 拖拽至浏览器 按提示安装即可
+
+设置参考 http://ippotsuko.com/blog/foxyproxy-basic-setting/
+shadowsocks把本地代理socks5   127.0.0.1:1080即可
 
 一切正常的话你就又在墙外了,enjoy it!
