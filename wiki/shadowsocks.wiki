@@ -3,19 +3,19 @@
 
 
 
-[http://mwsl.qiniudn.com/shield.png]
+
 
 Shadowsocks 是一个轻量级隧道代理，用来穿过防火墙。 全面支持HTTPS链接
 
-[http://mwsl.qiniudn.com/rocket.png]
+
 
 加快你的网络体验  无论是Twitter , Youtube 还是Facebook  都能轻松到达
 
-[http://mwsl.qiniudn.com/more.png]
+
 
 所有设备适用  台式电脑、笔记本、平板、手机……任何可联网设备均可使用
 
-
+详情请见  http://ippotsuko.com/ss
 
 
 
@@ -39,7 +39,7 @@ Shadowsocks 是一个轻量级隧道代理，用来穿过防火墙。 全面支�
 
 
 
-详情请见  http://ippotsuko.com/ss
+购买链接  http://ippotsuko.com/ss
 
 
 年付制     一共95元 人民币 折合每月7元左右 *由于汇率变动  价格可能有浮动  付款完成的不用补差价
