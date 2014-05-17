@@ -1,51 +1,3 @@
-除去广为人知、人见人爱的VPN，其实还有十八般兵器存在于科学上网界，其中ShadowSocks可以说是其中一把功能齐全的瑞士军刀。服务器端提供了各种版本，如Python、Nodejs、Go、C libev等等，安装配置过程极其简单。而用户端则可以在windows、mac、iOS和android上轻松运行，很好很强大。
-PS：此程序开源，感谢作者@clowwindy。
-
-Shadowsocks是什么？
-码农对于shadowsocks应该不陌生，而一般普通网民可能知之甚少。shadowsocks实质上也是一种socks5代理服务，类似于ssh代理。与vpn的全局代理不同，shadowsocks仅针对浏览器代理，不能代理应用软件，比如youtube、twitter客户端软件。如果把vpn比喻为一把屠龙刀，那么shadowsocks就是一把瑞士军刀，轻巧方便，功能却非常强大。
-
-喜欢上shadowsocks的理由
-很多时候，我们仅仅只是需要上一下google，收个gmail邮件，或者打开某个网站瞄一眼看看有无更新。这种情况下，vpn可以做到吗，可以，但是很麻烦，连个vpn，qq也得掉一次线，有时候还连半天连不上。而通过ss的话呢，后台运行一个小程序，然后浏览器点击切换一下SS的网络，就可以了。不用的时候，再切回来。这也就是其轻巧的地方。
-
-
-本项目为收费项目  不限使用流量 满速运行 支持多客戶端同时登录  
-
-
-
-现支持Win/Linux（跨平台）/Mac/Android/iOS（*禁止利用本工具下载BT或其他P2P程序）
-
- 
-
-美国 旧金山服务器 sfo.yuikira.com    提供Shadowsocks & SSH & VPN(L2TP IPsec PSK)
-
- 
-
-现支持Win/Linux（跨平台）/Mac/Android/iOS（*禁止利用本工具下载BT或其他P2P程序）
-
- 
-
-再赠送7枚ss账号 sfo2旧金山 sfo3 sfo4 tyo2东京 ny纽约 la洛杉矶 jsv森尼韦尔  de德国  
-
-
-
-购买链接  http://ippotsuko.com/ss
-
-
-年付制     一共95元 人民币 折合每月7元左右 *由于汇率变动  价格可能有浮动  付款完成的不用补差价
-
-为保证本项目的延续  不被滥用 只能考虑收费制 望请谅解
-
-另外收到的捐助并贡献[https://chrome.google.com/webstore/detail/adkill-and-media-download/lcibdonokophlabplhpmmmjjbgohgcok Adkill项目] 上 它能有效的屏蔽视频里的广告  
-
- 
-
-非常感谢 您的支持
-
-联系邮箱 kawaiiushio@gmail.com       
-
-
-
-
 #使用说明
 下载程序   http://pan.baidu.com/s/1gd9l4T9 密码: rbm9  按照自己的系统下载
 
@@ -55,7 +7,6 @@ Shadowsocks是什么？
 
 
 按要求修改我给你的服务器配置 编辑config.json
-
 
 
     "server":"127.0.0.1",   这里填写服务器的ip或者地址
@@ -72,9 +23,8 @@ Shadowsocks是什么？
 
     "method":"aes-256-cfb"     这里是加密方式 
 
-Mac os x/ iOS/Android用户打开软件  按配置准确填写即可
 
-Linux用户建议使用python（2.7）版的
+Mac OS X/Linux用户建议使用python（2.7）版的
 
 如果想使用 table 之外的加密方法，要先安装 M2Crypto.
 
@@ -128,6 +78,10 @@ Firefox---!FoxyProxy [https://addons.mozilla.org/zh-cn/firefox/addon/foxyproxy-s
 
 设置参考 http://ippotsuko.com/blog/foxyproxy-basic-setting/
 shadowsocks把本地代理socks5   127.0.0.1:1080即可
+
+---------------------
+Android  iOS 用户下载app   http://pan.baidu.com/s/1gd9l4T9 密码: rbm9  按照自己的系统下载
+填写需要的信息即可
 
 一切正常的话你就又在墙外了,enjoy it!
 
