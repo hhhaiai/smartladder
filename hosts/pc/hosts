@@ -1,47 +1,8 @@
-#20140320
-#
-# Copyright (c) 2011-2014 huhamhire-hosts team.
-#
-# Since the governments of some countries are using technical methods blocking
-# internet access to some websites and web service providers which includes
-# some world famous sites like Google, YouTube, twitter, Facebook, and
-# Wikipedia etc., we designed this tiny utility in order to help people
-# getting through the Internet blockade.
-#
-# This file contains the mappings of IP addresses to host names. Each entry
-# should be kept on an individual line. The IP address should be placed in
-# the first column followed by the corresponding host name.
-# The IP address and the host name should be separated by at least one space.
-#
-# comments (such as these) may be inserted on individual
-# lines or following the machine name denoted by a '#' symbol.
-#
-# For example:
-#      102.54.94.97     rhino.acme.com          # source server
-#       38.25.63.10     x.acme.com              # x client host
-#
-# localhost name resolution is handled within DNS itself.
-#	127.0.0.1       localhost
-#	::1             localhost
-#
 # Special thanks to: smarthosts, hostsx, ipv6-hosts, mwsl, mvps, ATGFW and
 # hpHosts.
 #
 # Version: 1.4.5
-# BuildTime: 1393840592
-# ApplyTime: 1395286537
-#
-
-# Section Start: Localhost
-127.0.0.1        localhost.localdomain localhost
-127.0.0.1        ushio-laptop
-# Section End: Localhost
-
-# Section Start: huhamhire-hosts
-192.184.89.121   hosts.huhamhire.com
-74.125.132.82    huhamhire-hosts.googlecode.com
-199.27.79.133    huhamhire.github.com
-# Section End: huhamhire-hosts
+# BuildTime: 20140530
 
 # Section Start: google
 173.194.72.189   0.docs.google.com
